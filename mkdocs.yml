@@ -33,8 +33,9 @@ plugins:
   - search
   - plantuml:
       puml_url: https://www.plantuml.com/plantuml/
+
 nav:
-  - Note: note.md
+  - Note: index.md
   - Diary:
     - Năm 2025: 
       - Tháng 8: 2025/2025-8.md
