@@ -520,29 +520,45 @@
 
 
 <h1 id="note">Note</h1>
-<details class="danger">
-<summary>Kiểm tra thuế</summary>
+<div class="admonition danger">
+<p class="admonition-title">Thanh toán nợ nần</p>
+<ul class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox"/><span class="task-list-indicator"></span></label> Trả tiền ăn cho Trường hôm thứ bảy (2/8)<ul>
+<li>Hôm đó hình như là <code>50</code>.</li>
+</ul>
+</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox"/><span class="task-list-indicator"></span></label> Sau đó là trả tiền Nam Phò</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox"/><span class="task-list-indicator"></span></label> Tiền Vịt <code>280</code> + Bia <code>70</code> = Total <code>350</code>. Chia 3 mỗi người <code>115</code></li>
+</ul>
+</div>
+<div class="admonition danger">
+<p class="admonition-title">Kiểm tra thuế</p>
 <p>Vâng vì cái VNiD này làm mình hơi tốn thời gian. Cơ bản mình vẫn chưa làm <code>CCCD</code> có gắn chip. Thế nên vẫn chưa mở được cái ứng dụng này. Dạo này nhà nước nhiều chuyện thật.</p>
-</details>
-<details class="warning">
-<summary>Lên nhà chú Hà</summary>
+</div>
+<div class="admonition warning">
+<p class="admonition-title">Lên nhà chú Hà</p>
 <p>Bằng một cách hơi khó hiểu nào đó chú Hà lại gọi mình lên nói chuyện. Chắc lại về công việc cơ mà mình thấy hơi ...</p>
-</details>
-<details class="question">
-<summary>Issue <code>AEP-635</code>, <code>AEP-731</code></summary>
+<ul class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox"/><span class="task-list-indicator"></span></label> Gọi điện trước và ... nói sao giờ? Hỏi han về cuộc sống hay gì à? Hay là có công việc?</li>
+</ul>
+</div>
+<div class="admonition question">
+<p class="admonition-title">Issue <code>AEP-635</code>, <code>AEP-731</code></p>
 <p>Issue <strong>Parktronic sound after system booting</strong> của EVO, cũng không gấp nhưng là khách hàng tạo ra. Thật kỳ lạ là mình không tái hiện được.</p>
-</details>
-<details class="question">
-<summary>In 3D đầu type-C, Lightling, ...</summary>
+</div>
+<div class="admonition question">
+<p class="admonition-title">In 3D đầu type-C, Lightling, ...</p>
 <p>Nhiệm vụ này đơn giản chỉ là để bảo vệ các đầu cắm khỏi bị ăn mòn hoặc dính nước thôi. Không nhất định.</p>
-</details>
-<details class="question">
-<summary>Làm một bài về module <code>EditText</code> của <strong>Android</strong></summary>
+</div>
+<div class="admonition question">
+<p class="admonition-title">Làm một bài về module <code>EditText</code> của <strong>Android</strong></p>
 <ul>
 <li>Làm một bài về module <code>EditText</code> của <strong>Android</strong></li>
 <li><em>Bài này được tách ra một phần trong lúc làm Engineering Mode</em></li>
 <li>Có một đoạn cần chú ý như này, dùng để thoát chế độ <em>focus</em> vào <code>EditText</code> sau khi ấn ra ngoài khu vực làm việc <em>(không còn cái thanh điều hướng nằm trong hộp edittext)</em></li>
 </ul>
+<details class="note">
+<summary>Tham khảo code mẫu này</summary>
 <div class="highlight"><pre><span></span><code><span class="n">edtFreqChange</span><span class="p">.</span><span class="na">setOnEditorActionListener</span><span class="p">((</span><span class="n">v</span><span class="p">,</span><span class="w"> </span><span class="n">actionId</span><span class="p">,</span><span class="w"> </span><span class="n">event</span><span class="p">)</span><span class="w"> </span><span class="o">-&gt;</span><span class="w"> </span><span class="p">{</span>
 <span class="w">    </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">actionId</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">EditorInfo</span><span class="p">.</span><span class="na">IME_ACTION_DONE</span><span class="w"> </span><span class="o">||</span>
 <span class="w">            </span><span class="p">(</span><span class="n">event</span><span class="w"> </span><span class="o">!=</span><span class="w"> </span><span class="kc">null</span><span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="n">event</span><span class="p">.</span><span class="na">getKeyCode</span><span class="p">()</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">KeyEvent</span><span class="p">.</span><span class="na">KEYCODE_ENTER</span><span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span><span class="n">event</span><span class="p">.</span><span class="na">getAction</span><span class="p">()</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">KeyEvent</span><span class="p">.</span><span class="na">ACTION_DOWN</span><span class="p">))</span><span class="w"> </span><span class="p">{</span>
@@ -566,6 +582,13 @@
 <span class="p">});</span>
 </code></pre></div>
 </details>
+</div>
+<div class="admonition example">
+<p class="admonition-title">Sửa bàn phím <strong><em>low-profile</em></strong></p>
+<ul>
+<li>Sửa cái bàn phím <strong><em>low-profile</em></strong> của mình đi. Sửa ở đâu thì không biết. <strong><em>(Không biết có phải thay lại keycap không nữa.)</em></strong></li>
+</ul>
+</div>
 
 
 
