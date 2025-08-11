@@ -6,7 +6,7 @@
         - Hôm đó hình như là `50k`.
     - [ ] Sau đó là trả tiền Nam Phò
     - [ ] Tiền Vịt `280k` + Bia `70k` = Total `350k`. Chia 3 mỗi người `115k`
-    - [x] Hải bánh đã trả `500k`
+    - [ ] Trả  __Hải Bánh__ tiền mỳ gà tần.
 
 !!! danger "Kiểm tra thuế"
     Vâng vì cái VNiD này làm mình hơi tốn thời gian. Cơ bản mình vẫn chưa làm `CCCD` có gắn chip. Thế nên vẫn chưa mở được cái ứng dụng này. Dạo này nhà nước nhiều chuyện thật.
