@@ -35,13 +35,21 @@ plugins:
       puml_url: https://www.plantuml.com/plantuml/
 
 nav:
-  - Note: index.md
   - Diary:
+    - Note: index.md
     - Năm 2025: 
       - Tháng 8: 2025/2025-8.md
       - Tháng 7: 2025/2025-7.md
       - Tháng 6: 2025/2025-6.md
-
+  - Cuisine:
+    - Tổng quan: Cuisine/cuisine.md
+    - Đồ ăn:
+      - Tổng quan: Cuisine/cuisine-dish.md
+    - Đồ uống:
+      - Trà: Cuisine/cuisine-tea.md
+      - Cafe: Cuisine/cuisine-coffee.md
+    - Dinh dưỡng:
+      - Tổng quan: Cuisine/cuisine-nutrition.md
 extra_css:
   - assets/stylesheets/theme.css
   - https://unpkg.com/katex@0/dist/katex.min.css
