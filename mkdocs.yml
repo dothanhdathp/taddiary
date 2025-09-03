@@ -37,7 +37,8 @@ plugins:
 nav:
   - Diary:
     - Note: index.md
-    - Năm 2025: 
+    - Năm 2025:
+      - Tháng 9: 2025/2025-9.md
       - Tháng 8: 2025/2025-8.md
       - Tháng 7: 2025/2025-7.md
       - Tháng 6: 2025/2025-6.md
