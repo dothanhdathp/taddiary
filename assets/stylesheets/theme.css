@@ -51,7 +51,9 @@
 .md-tabs {
   background-color: #704b4b;
 }
-
+.md-footer {
+    background-color: #442b2b;
+}
 body {
   --md-primary-fg-color: #002553;
   font-family: var(--primary-family);
