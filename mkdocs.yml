@@ -51,6 +51,8 @@ nav:
       - Cafe: Cuisine/cuisine-coffee.md
     - Dinh dưỡng:
       - Tổng quan: Cuisine/cuisine-nutrition.md
+  - Mặt hàng:
+    - Bàn phím: Items/items-keyboards.md
 extra_css:
   - assets/stylesheets/theme.css
   - https://unpkg.com/katex@0/dist/katex.min.css
