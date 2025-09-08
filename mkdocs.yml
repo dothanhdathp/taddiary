@@ -44,8 +44,8 @@ nav:
       - Tháng 6: 2025/2025-6.md
   - Cuisine:
     - Tổng quan: Cuisine/cuisine.md
-    - Đồ ăn:
-      - Tổng quan: Cuisine/cuisine-dish.md
+    - Thịt:
+      - Gà: Cuisine/cuisine-meat-chicken.md
     - Đồ uống:
       - Trà: Cuisine/cuisine-tea.md
       - Cafe: Cuisine/cuisine-coffee.md
@@ -55,7 +55,8 @@ nav:
     - Bàn phím: Items/items-keyboards.md
 extra_css:
   - assets/stylesheets/theme.css
-  - https://unpkg.com/katex@0/dist/katex.min.css
+  - assets/stylesheets/katex.min.css
+  # - https://unpkg.com/katex@0/dist/katex.min.css
 
 markdown_extensions:
   - attr_list
@@ -78,8 +79,11 @@ markdown_extensions:
 
 extra_javascript:
   - assets/scripts/katex.js
-  - https://unpkg.com/katex@0/dist/katex.min.js
-  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+  - assets/scripts/keyevent.js
+  - assets/scripts/katex.min.js
+  - assets/scripts/auto-render.min.js
+  # - https://unpkg.com/katex@0/dist/katex.min.js
+  # - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
 
 extra:
   social:
