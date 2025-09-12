@@ -51,7 +51,17 @@ nav:
       - Cafe: Cuisine/cuisine-coffee.md
     - Dinh dưỡng:
       - Tổng quan: Cuisine/cuisine-nutrition.md
-  - Mặt hàng:
+  - Âm Nhạc:
+    - Nhạc Điện Tử:
+      - Misc 1: Music/Electronic/music-electronic-misc-1.md
+    - EU:
+      - Strong: Music/EU/music-eu-strong.md
+      - Mid: Music/EU/music-eu-mid.md
+      - Soft: Music/EU/music-eu-soft.md
+      - Old: Music/EU/music-eu-old.md
+    - Các nước khác:
+      - Đức: Music/Misc/music-germany.md
+  - Đồ:
     - Bàn phím: Items/items-keyboards.md
 extra_css:
   - assets/stylesheets/theme.css
@@ -78,10 +88,13 @@ markdown_extensions:
       clickable_checkbox: true
 
 extra_javascript:
+  - assets/scripts/tablesort.min.js
+  - assets/scripts/tablesort.js
   - assets/scripts/katex.js
   - assets/scripts/keyevent.js
   - assets/scripts/katex.min.js
   - assets/scripts/auto-render.min.js
+
   # - https://unpkg.com/katex@0/dist/katex.min.js
   # - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
 

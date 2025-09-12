@@ -48,6 +48,10 @@
   max-width: initial;
 } */
 
+.md-main__inner.md-grid.full-width {
+  max-width: initial;
+}
+
 .md-tabs {
   background-color: #704b4b;
 }
@@ -109,13 +113,13 @@ mark.blue {
 /* Change table size */
 
 th {
-  background-color: #aaa1ff5b;
-  font-size: larger;
+  background-color: #704b4bdf;
+  color: #ffffff;
 }
 
-td {
+/* td {
   font-size: large;
-}
+} */
 
 /* code */
 :not(pre):not(.hljs) > code {
