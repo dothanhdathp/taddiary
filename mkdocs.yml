@@ -42,6 +42,11 @@ nav:
       - Tháng 8: 2025/2025-8.md
       - Tháng 7: 2025/2025-7.md
       - Tháng 6: 2025/2025-6.md
+  - Đồ:
+    - Máy Tính:
+      - Bàn phím: Items/items-keyboards.md
+    - Đô Nội Thất:
+      - Tủ Quần Áo: Items/items-furniture-wardrobe.md
   - Cuisine:
     - Tổng quan: Cuisine/cuisine.md
     - Thịt:
@@ -61,8 +66,6 @@ nav:
       - Old: Music/EU/music-eu-old.md
     - Các nước khác:
       - Đức: Music/Misc/music-germany.md
-  - Đồ:
-    - Bàn phím: Items/items-keyboards.md
 extra_css:
   - assets/stylesheets/theme.css
   - assets/stylesheets/katex.min.css

@@ -4,7 +4,7 @@
 
 |   N | Tên bài                                                                   | Ca sĩ                                               | Ghi chú |
 | --: | :------------------------------------------------------------------------ | :-------------------------------------------------- | :------ |
-|   * | [Lean On (feat. MØ)](https://www.youtube.com/watch?v=YqeW9_5kURI)         | Major Lazer & DJ Snake - ft. MØ                     |         |
+|   * | [Lean On](https://www.youtube.com/watch?v=YqeW9_5kURI)                    | Major Lazer & DJ Snake - ft. MØ                     |         |
 |   * | [Hey Mama](https://www.youtube.com/watch?v=8JnfIa84TnU)                   | David Guetta ft. Nicki Minaj, Bebe Rexha & Afrojack |         |
 |   * | [No Scrubs](https://www.youtube.com/watch?v=d5AvqAbKrvs)                  | Unlike Pluto ft. Joanna Jones                       |         |
 |   * | [Everything Black](https://www.youtube.com/watch?v=mWKDZRJWdF4)           | Unlike Pluto ft. Mike Taylor                        |         |
