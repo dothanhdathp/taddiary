@@ -1,21 +1,20 @@
 # Note
 
-!!! note "Làm"
-    - [ ] Giày khô rồi thì thu vào đi
-    - [ ] Sửa bàn phím keychon __*low-profile*__ của mình đi
-
-!!! danger "Thanh toán nợ nần"
-    - [ ] Trường thanh toán bún cá cay 35k
-    - [ ] Hải Bánh nợ
-        - Một bữa cơm `45k`
-        - Vé xe `130k`
-        - Ram `325k`
-
-
-!!! warning "Lên nhà chú Hà _(bố nhắc từ hè)_"
-    Bằng một cách hơi khó hiểu nào đó chú Hà lại gọi mình lên nói chuyện. Chắc lại về công việc cơ mà mình thấy hơi ...
-
-    - [ ] Gọi điện trước và ... nói sao giờ? Hỏi han về cuộc sống hay gì à? Hay là có công việc?
+```mermaid
+kanban
+Maybe[❔ Xem xét]
+    [⚠️ Lên nhà chú Hà]
+ToDo[⚡ Cần Làm]
+    [🔎 Tìm lại script crack cho Windows]
+    [⚒️ Sửa bàn phím]
+    [🏠 Thu giày vào]
+Must[‼️ Làm Ngay]
+Note[📝 Ghi Chú]
+    [💸 Nợ Trường 35k bún cá cay]
+    [💵 Hải nợ Một bữa cơm 45.000]
+    [💵 Hải nợ Vé xe 130.000]
+    [💵 Hải nợ Ram 325.000]
+```
 
 !!! abstract "Làm một bài về module `EditText` của __Android__"
     - Làm một bài về module `EditText` của __Android__
@@ -46,6 +45,3 @@
             return false;
         });
         ```
-
-!!! abstract "Sửa bàn phím ___low-profile___"
-    - Sửa cái bàn phím ___low-profile___ của mình đi. Sửa ở đâu thì không biết. ___(Không biết có phải thay lại keycap không nữa.)___
