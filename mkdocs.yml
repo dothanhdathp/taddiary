@@ -45,6 +45,7 @@ nav:
   - Đồ:
     - Máy Tính:
       - Bàn phím: Items/items-keyboards.md
+      - Windows Key: Items/items-windows-key.md
     - Đô Nội Thất:
       - Tủ Quần Áo: Items/items-furniture-wardrobe.md
   - Cuisine:
@@ -66,6 +67,10 @@ nav:
       - Old: Music/EU/music-eu-old.md
     - Các nước khác:
       - Đức: Music/Misc/music-germany.md
+  - Gia Đình:
+    - Họ Nội: Family/family-paternal-side.md
+    - Họ Ngoại: Family/family-maternal-side.md
+
 extra_css:
   - assets/stylesheets/theme.css
   - assets/stylesheets/katex.min.css

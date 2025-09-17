@@ -2,7 +2,7 @@
 
 ```mermaid
 kanban
-Maybe[❔ Xem xét]
+Plan[🗓️ Kế Hoạch]
     [⚠️ Lên nhà chú Hà]
 ToDo[⚡ Cần Làm]
     [🔎 Tìm lại script crack cho Windows]
