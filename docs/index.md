@@ -10,9 +10,6 @@ ToDo[⚡ Cần Làm]
     [🏠 Thu giày vào]
 Must[‼️ Làm Ngay]
 Note[📝 Ghi Chú]
-    [💸 Nợ Trường 35k bún cá cay]
-    [💵 Hải nợ Một bữa cơm 45.000]
-    [💵 Hải nợ Vé xe 130.000]
     [💵 Hải nợ Ram 325.000]
 ```
 
