@@ -1,0 +1,123 @@
+site_name: Tad Diary
+theme:
+  name: material
+  logo: assets/logo/cat_white.png
+  text: Noto Serif Medium
+  code: Roboto Mono Medium
+  highlightjs: true
+  hljs_style: github
+  hljs_style_dark: github-dark
+  palette:
+  - scheme: default
+    primary: blue grey
+    accent: pink
+    toggle:
+      icon: material/brightness-4
+      name: Switch to dark mode
+  - scheme: slate
+    primary: blue grey
+    accent: pink
+    toggle:
+      icon: material/brightness-7
+      name: Switch to light mode
+  features:
+    - content.code.annotation
+    - content.code.copy
+    - content.tabs.link
+    - navigation.tabs
+    - navigation.instant
+    - navigation.footer
+    - navigation.tracking
+
+plugins:
+  - search
+  - plantuml:
+      puml_url: https://www.plantuml.com/plantuml/
+
+nav:
+  - Diary:
+    - Note: index.md
+    - Năm 2025:
+      - Tháng 10: 2025/2025-10.md
+      - Tháng 9: 2025/2025-9.md
+      - Tháng 8: 2025/2025-8.md
+      - Tháng 7: 2025/2025-7.md
+      - Tháng 6: 2025/2025-6.md
+  - Đồ:
+    - Máy Tính:
+      - Bàn phím: Items/items-keyboards.md
+      - Windows Key: Items/items-windows-key.md
+    - Đô Nội Thất:
+      - Tủ Quần Áo: Items/items-furniture-wardrobe.md
+  - Cuisine:
+    - Tổng quan: Cuisine/cuisine.md
+    - Thịt:
+      - Gà: Cuisine/cuisine-meat-chicken.md
+    - Đồ uống:
+      - Trà: Cuisine/cuisine-tea.md
+      - Cafe: Cuisine/cuisine-coffee.md
+    - Dinh dưỡng:
+      - Tổng quan: Cuisine/cuisine-nutrition.md
+  - Âm Nhạc:
+    - Việt Nam:
+      - Pop: Music/VN/music-vn-pop.md
+      - Bolero: Music/VN/music-vn-bolero.md
+      - Indie: Music/VN/music-vn-indie.md
+      - R,R&B,E: Music/VN/music-vn-rock-ballad-electronic.md
+      - Unknow: Music/VN/music-vn-unknow.md
+      - Electronic: Music/VN/music-vn-unknow.md
+    - Nhạc Điện Tử:
+      - Misc 1: Music/Electronic/music-electronic-misc-1.md
+    - EU:
+      - Pop: Music/EU/music-eu-pop.md
+      - Dance: Music/EU/music-eu-dance.md
+      - Old: Music/EU/music-eu-old.md
+      - Cover: Music/EU/music-eu-cover.md
+      - Playlist: Music/EU/music-eu-playlist.md
+    - Các nước khác:
+      - Đức: Music/Misc/music-germany.md
+  - Gia Đình:
+    - Họ Nội: Family/family-paternal-side.md
+    - Họ Ngoại: Family/family-maternal-side.md
+
+extra_css:
+  - assets/stylesheets/theme.css
+  - assets/stylesheets/katex.min.css
+  # - https://unpkg.com/katex@0/dist/katex.min.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+
+extra_javascript:
+  - assets/scripts/tablesort.min.js
+  - assets/scripts/tablesort.js
+  - assets/scripts/katex.js
+  - assets/scripts/keyevent.js
+  - assets/scripts/katex.min.js
+  - assets/scripts/auto-render.min.js
+
+  # - https://unpkg.com/katex@0/dist/katex.min.js
+  # - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/dothanhdathp
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/tad.zeila?locale=vi_VN
