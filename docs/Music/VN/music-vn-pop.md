@@ -7,7 +7,7 @@
 |                    Nam | Tên                                                                                | Ft              | Điểm |
 | ---------------------: | :--------------------------------------------------------------------------------- | :-------------- | :--: |
 |                   Erik | [Chạm Đáy Nỗi Đau](https://www.youtube.com/watch?v=8BAdhoeabUM)                    |                 |  9   |
-|                   Erik | [Sau Tất Cả](https://www.youtube.com/watch?v=wHF3Jv6Gk2o)                    |                 |  9   |
+|                   Erik | [Sau Tất Cả](https://www.youtube.com/watch?v=wHF3Jv6Gk2o)                          |                 |  9   |
 |                 Andiez | [1 Phút](https://www.youtube.com/watch?v=dLQe4qEfVJw)                              |                 |  8   |
 |                 Anh Tú | [Cuộc Sống Em Ổn Không](https://www.youtube.com/watch?v=DWYwmTdXpqw)               |                 |  7   |
 |                 Anh Tú | [Khóa Ly Biệt](https://www.youtube.com/watch?v=wEPX3V5T63M)                        |                 |  9   |
@@ -30,67 +30,77 @@
 |              Khải Đăng | [Hôm Nay Em Cưới Rồi](https://www.youtube.com/watch?v=NuWAl7-Vkwk)                 |                 |  7   |
 |              Khải Đăng | [Thay Tôi Yêu Cô Ấy](https://www.youtube.com/watch?v=kSYhR8vnzBg)                  |                 |  9   |
 |              Trúc Nhân | [Bốn Chữ Lắm](https://www.youtube.com/watch?v=i724lraI93s)                         | Trương Thảo Nhi |      |
-|              Trúc Nhân | [Tôi Thấy Hoa Vàng Trên Cỏ Xanh]()                                                 | Ái Phương       |  9   |
+|              Trúc Nhân | [Tôi Thấy Hoa Vàng Trên Cỏ Xanh](https://www.youtube.com/watch?v=SGIw_K3BEiY)      | Ái Phương       |  9   |
 |             Hoàng Dũng | [Nàng Thơ](https://www.youtube.com/watch?v=Zzn9-ATB9aU)                            |                 |  6   |
 |             Thanh Bình | [Mãi Mãi Không Phải Anh](https://www.youtube.com/watch?v=xD8Xchuxq8g)              |                 |  6   |
 |             Thanh Hưng | [Đúng Người Đúng Thời Điểm](https://www.youtube.com/watch?v=2MZ_oQOGC24)           |                 |  6   |
+|             Thanh Hưng | [Lao Tâm Khổ Tứ](https://www.youtube.com/watch?v=TfKOFRpqSME)                      |                 |      |
 |             Thanh Hưng | [Lao Tâm Khổ Tứ](https://www.youtube.com/watch?v=TfKOFRpqSME)                      |                 |  6   |
 |             Thanh Hưng | [Sai Người Sai Thời Điểm](https://www.youtube.com/watch?v=ICOcEzXsEOI)             |                 |  6   |
+|             Trung Quân | [Chưa Bao Giờ](https://www.youtube.com/watch?v=OIi2ZEUEMe8)                        |                 |  7   |
+|             Trung Quân | [Cô Bé Mùa Đông](https://www.youtube.com/watch?v=xAYy1KM6k_8)                      | Thuỳ Chi        |  9   |
+|             Trung Quân | [Cô Đơn Trên Sofa](https://www.youtube.com/watch?v=u7ScW1kCgS0)                    |                 |  7   |
+|             Trung Quân | [Dấu Mưa](https://www.youtube.com/watch?v=pDYM_JBAnp4)                             |                 |  7   |
+|             Trung Quân | [Dấu Mưa](https://www.youtube.com/watch?v=pDYM_JBAnp4)                             |                 |  7   |
+|             Trung Quân | [Tình Nào Không Như Tình Đầu](https://www.youtube.com/watch?v=wLRe4rJzdgY)         |                 |  7   |
 |           Bùi Anh Tuấn | [Lặng Yên](https://www.youtube.com/watch?v=ekYGOkz7o9o)                            | Ái Phương       |  8   |
 |           Bùi Anh Tuấn | [Thuận Theo Ý Trời](https://www.youtube.com/watch?v=b1UtffzfG64)                   |                 |  7   |
 |          Đinh Tùng Huy | [Ai Chung Tình Được Mãi](https://www.youtube.com/watch?v=eZpJdO22jZ0)              |                 |  5   |
 |          Phan Duy  Anh | [Vô Cùng](https://www.youtube.com/watch?v=iJKV5miglAg)                             |                 |  7   |
+|         Nguyễn Đình Vũ | [Em của quá khứ](https://www.youtube.com/watch?v=OJfx0vO5Rak)                      |                 |      |
 |        Noo Phước Thịnh | [Chạm Khẽ Tim Anh Một Chút Thôi](https://www.youtube.com/watch?v=Rzm_kltwHbg)      |                 |  8   |
 |        Noo Phước Thịnh | [Thương Em Là Điều Anh Không Thể Ngờ](https://www.youtube.com/watch?v=tAaUbRt6jqM) |                 |  8   |
+|        Phạm Hồng Phước | [Anh Sẽ Tốt Mà](https://www.youtube.com/watch?v=PIulySnIj_g)                       | Thuỳ Chi        |      |
+|        Phạm Hồng Phước | [Khi Người Lớn Cô Đơn](https://www.youtube.com/watch?v=sU2V9ZSNqQE)                |                 |      |
 |        Phan Mạnh Quỳnh | [Có Chàng Trai Viết Lên Cây](https://www.youtube.com/watch?v=0VC6euBtKkk)          |                 |  6   |
 |       SooBin Hoàng Sơn | [Phía Sau Một Cô Gái](https://www.youtube.com/watch?v=j__Q13iAxNk)                 |                 |  7   |
 |       Trịnh Đình Quang | [Thất Tình](https://www.youtube.com/watch?v=FSeGrBw5eFA)                           |                 |  5   |
-|       Trịnh Thăng Bình | [Tâm Sự Tuổi 30](https://www.youtube.com/watch?v=kV3famkRaA4)                      |                 |  7   |
-|             Trung Quân | [Dấu Mưa](https://www.youtube.com/watch?v=pDYM_JBAnp4)                             |                 |  7   |
-|             Trung Quân | [Tình Nào Không Như Tình Đầu](https://www.youtube.com/watch?v=wLRe4rJzdgY)         |                 |  7   |
-|             Trung Quân | [Chưa Bao Giờ](https://www.youtube.com/watch?v=OIi2ZEUEMe8)                        |                 |  7   |
-|             Trung Quân | [Cô Đơn Trên Sofa](https://www.youtube.com/watch?v=u7ScW1kCgS0)                    |                 |  7   |
-|             Trung Quân | [Dấu Mưa](https://www.youtube.com/watch?v=pDYM_JBAnp4)                             |                 |  7   |
-|             Trung Quân | [Cô Bé Mùa Đông](https://www.youtube.com/watch?v=xAYy1KM6k_8)                      | Thuỳ Chi        |  9   |
-|         Nguyễn Đình Vũ | [Em của quá khứ](https://www.youtube.com/watch?v=OJfx0vO5Rak)                      |                 |      |
-|        Phạm Hồng Phước | [Khi Người Lớn Cô Đơn](https://www.youtube.com/watch?v=sU2V9ZSNqQE)                |                 |      |
-|        Phạm Hồng Phước | [Anh Sẽ Tốt Mà](https://www.youtube.com/watch?v=PIulySnIj_g)                       | Thuỳ Chi        |      |
 |       Trịnh Thăng Bình | [Người Ấy](https://www.youtube.com/watch?v=1Tj1wSfRkZg)                            |                 |      |
+|       Trịnh Thăng Bình | [Tâm Sự Tuổi 30](https://www.youtube.com/watch?v=kV3famkRaA4)                      |                 |  7   |
 | Nguyễn Trần Trung Quân | [Màu Nước Mắt](https://www.youtube.com/watch?v=kgfNvOTPAJo)                        |                 |      |
 
 ### Nữ
 
-|              Nữ | Tên                                                                                 |       Ft        | Group | Điểm |
-| --------------: | :---------------------------------------------------------------------------------- | :-------------: | :---: | :--: |
-|          Hà Nhi | [Ai Rồi Cũng Sẽ Khác](https://www.youtube.com/watch?v=MJu_cgM6tMs)                  |                 |       |      |
-|          Orange | [Em Hát Ai Nghe](https://www.youtube.com/watch?v=wssbBe_t-r4)                       |                 |       |  9   |
-|         Hiền Hồ | [Rồi Người Thương Cũng Hóa Người Dưng](https://www.youtube.com/watch?v=IGyA9CxWwbs) |                 |       |  -8  |
-|        Lady Mây | [Anh Chưa Thương Em Đến Vậy Đâu](https://www.youtube.com/watch?v=CMOMeBjSRaI)       |                 |       |  9   |
-|        Sara Lưu | [Đừng Như Thói Quen](https://www.youtube.com/watch?v=8BVAuWusBBA)                   |     JayKii      |       |      |
-|       Ái Phương | [Lặng Yên](https://www.youtube.com/watch?v=ekYGOkz7o9o)                             |  Bùi Anh Tuấn   |       |  -9  |
-|       Ái Phương | [Tôi Thấy Hoa Vàng Trên Cỏ Xanh]()                                                  |    Trúc Nhân    |       |  6   |
-|       Hoà Minzy | [Rời Bỏ](https://www.youtube.com/watch?v=ALzPt-7pEOc)                               |                 |       |  -9  |
-|       Nguyên Hà | [Sau Này Gặp Lại Khi Hoa Nở](https://www.youtube.com/watch?v=xB2qsCnqAXA)           |                 |       |  -1  |
-|      Hương Tràm | [Cho Em Gần Anh Thêm Chút Nữa](https://www.youtube.com/watch?v=Xn2Lm6AHW6Q)         |                 |       |  9   |
-|      Hương Tràm | [Em Gái Mưa](https://www.youtube.com/watch?v=Y29OrOVJUKs)                           |                 |       |  8   |
-|     Tiên Cookie | [Tâm Sự Với Người Lạ](https://www.youtube.com/watch?v=ahn39A6ITwg)                  |                 |       |      |
-|    SUNI HẠ LINH | [Rằm Trong Tim](https://www.youtube.com/watch?v=NtWCW6lQqFs)                        |                 |  TDK  |  8   |
-|   Văn Mai Hương | [Đừng Như Thói Quen (Cover)](https://www.youtube.com/watch?v=8BVAuWusBBA)           |    Quân A.P     |       |      |
-|   Văn Mai Hương | [Một Ngàn Nỗi Đau](https://www.youtube.com/watch?v=5YKR3ueeI9o)                     |                 |       |      |
-|   Văn Mai Hương | [Mưa Thánh Sáu](https://www.youtube.com/watch?v=_8vekzCF04Q)                        |                 |       |      |
-|  Chu Thuý Quỳnh | [Nên Chờ Hay Nên Quên](https://www.youtube.com/watch?v=mftSWpgydoo)                 |                 |       |      |
-|  Phí Phương Anh | [Răng Khôn](https://www.youtube.com/watch?v=CMOMeBjSRaI)                            |                 |       |  -7  |
-| Trương Thảo Nhi | [Bốn Chữ Lắm](https://www.youtube.com/watch?v=i724lraI93s)                          |    Trúc Nhân    |       |      |
-| Hoàng Yến Chibi | [Đồi Hoa Mặt Trời](https://www.youtube.com/watch?v=gDi4tuaX36s)                     |                 |       |      |
-|        Thuỳ Chi | [Cô Bé Mùa Đông](https://www.youtube.com/watch?v=xAYy1KM6k_8)                       | Trung Quân Idol |       |      |
-|        Thuỳ Chi | [Xe Đạp](https://www.youtube.com/watch?v=6KJrNWC0tfw)                               |       M4U       |       |      |
-|        Thuỳ Chi | [Mưa](https://www.youtube.com/watch?v=-yhqOX3bLvQ)                                  |       M4U       |       |      |
-|        Thuỳ Chi | [Anh Sẽ Tốt Mà](https://www.youtube.com/watch?v=PIulySnIj_g)                        | Phạm Hồng Phước |       |      |
-|        Bảo Trâm | [Chỉ Còn Những Mùa Nhớ](https://www.youtube.com/watch?v=Pmkb5mUhWFY)                |                 |       |      |
-|     Bích Phương | [Nụ Hồng Mong Manh](https://www.youtube.com/watch?v=HqmORg3SK3M)                    |                 |       |      |
-|            LyLy | [24H](https://www.youtube.com/watch?v=IpniN1Wq68Y)                                  |                 |       |      |
-|   Ngô Lan Hương | [Đi Giữa Trời Rực Rỡ](https://www.youtube.com/watch?v=pjm2aXT3A2M)                  |                 |       |      |
-|        Ngọc Mai | [Theo Em Về Nhà](https://www.youtube.com/watch?v=Yvk3dCYAq9M)                       |                 |       |      |
+|   Rate   |              Nữ | Tên                                                                                 |        Ft         | Group |
+| :------: | --------------: | :---------------------------------------------------------------------------------- | :---------------: | :---: |
+|          |            LyLy | [24H](https://www.youtube.com/watch?v=IpniN1Wq68Y)                                  |                   |       |
+|          |          Hà Nhi | [Ai Rồi Cũng Sẽ Khác](https://www.youtube.com/watch?v=MJu_cgM6tMs)                  |                   |       |
+|          |          Orange | [Em Hát Ai Nghe](https://www.youtube.com/watch?v=wssbBe_t-r4)                       |                   |       |
+|          |          Orange | [Khi Em Lớn](https://www.youtube.com/watch?v=1Lh1E9voEsc)                           |    Hoàng Dũng     |       |
+|          |          Orange | [Tự Sự](https://www.youtube.com/watch?v=C4QhZvTqhnI)                                |   Thuận Nguyễn    |       |
+|          |         Hiền Hồ | [Rồi Người Thương Cũng Hóa Người Dưng](https://www.youtube.com/watch?v=IGyA9CxWwbs) |                   |       |
+|          |        Bảo Trâm | [Chỉ Còn Những Mùa Nhớ](https://www.youtube.com/watch?v=Pmkb5mUhWFY)                |                   |       |
+| &#10131; |        Lady Mây | [Anh Chưa Thương Em Đến Vậy Đâu](https://www.youtube.com/watch?v=CMOMeBjSRaI)       |                   |       |
+|          |        Ngọc Mai | [Theo Em Về Nhà](https://www.youtube.com/watch?v=Yvk3dCYAq9M)                       |                   |       |
+|          |        Sara Lưu | [Đừng Như Thói Quen](https://www.youtube.com/watch?v=8BVAuWusBBA)                   |      JayKii       |       |
+|          |        Thuỳ Chi | [Anh Sẽ Tốt Mà](https://www.youtube.com/watch?v=PIulySnIj_g)                        |  Phạm Hồng Phước  |       |
+|          |        Thuỳ Chi | [Cô Bé Mùa Đông](https://www.youtube.com/watch?v=xAYy1KM6k_8)                       |  Trung Quân Idol  |       |
+|          |        Thuỳ Chi | [Mưa](https://www.youtube.com/watch?v=-yhqOX3bLvQ)                                  |        M4U        |       |
+|          |        Thuỳ Chi | [Xe Đạp](https://www.youtube.com/watch?v=6KJrNWC0tfw)                               |        M4U        |       |
+|          |       Ái Phương | [Đến Giờ Cơm](https://www.youtube.com/watch?v=ECjMT-KDshs)                          |                   |       |
+|          |        Thùy Chi | [Giấc Mơ Trưa](https://www.youtube.com/watch?v=u2Ix73ePWDs)                         |                   |       |
+|          |       Ái Phương | [Lặng Yên](https://www.youtube.com/watch?v=ekYGOkz7o9o)                             |   Bùi Anh Tuấn    |       |
+|          |       Ái Phương | [Tôi Thấy Hoa Vàng Trên Cỏ Xanh]()                                                  |     Trúc Nhân     |       |
+|          |       Hoà Minzy | [Rời Bỏ](https://www.youtube.com/watch?v=ALzPt-7pEOc)                               |                   |       |
+|          |       Nguyên Hà | [Sau Này Gặp Lại Khi Hoa Nở](https://www.youtube.com/watch?v=xB2qsCnqAXA)           |                   |       |
+|          |      Hương Tràm | [Cho Em Gần Anh Thêm Chút Nữa](https://www.youtube.com/watch?v=Xn2Lm6AHW6Q)         |                   |       |
+|          |      Hương Tràm | [Em Gái Mưa](https://www.youtube.com/watch?v=Y29OrOVJUKs)                           |                   |       |
+|          |     Bích Phương | [Nụ Hồng Mong Manh](https://www.youtube.com/watch?v=HqmORg3SK3M)                    |                   |       |
+|          |     Tiên Cookie | [Tâm Sự Với Người Lạ](https://www.youtube.com/watch?v=ahn39A6ITwg)                  |                   |       |
+|          |    SUNI HẠ LINH | [Rằm Trong Tim](https://www.youtube.com/watch?v=NtWCW6lQqFs)                        |                   |  TDK  |
+|          |   Ngô Lan Hương | [Đi Giữa Trời Rực Rỡ](https://www.youtube.com/watch?v=pjm2aXT3A2M)                  |                   |       |
+|          |   Văn Mai Hương | [Đừng Như Thói Quen (Cover)](https://www.youtube.com/watch?v=8BVAuWusBBA)           |     Quân A.P      |       |
+|          |   Văn Mai Hương | [Một Ngàn Nỗi Đau](https://www.youtube.com/watch?v=5YKR3ueeI9o)                     |                   |       |
+|          |   Văn Mai Hương | [Mưa Thánh Sáu](https://www.youtube.com/watch?v=_8vekzCF04Q)                        |                   |       |
+|          |   Vũ Phụng Tiên | [Lệ Lưu Ly](https://www.youtube.com/watch?v=0tFUfuEhh28)                            | DT TẬP RAP, DRUM7 |       |
+|          |  Chu Thuý Quỳnh | [Nên Chờ Hay Nên Quên](https://www.youtube.com/watch?v=mftSWpgydoo)                 |                   |       |
+|          |  Phí Phương Anh | [Răng Khôn](https://www.youtube.com/watch?v=CMOMeBjSRaI)                            |                   |       |
+|          | Hoàng Yến Chibi | [Đồi Hoa Mặt Trời](https://www.youtube.com/watch?v=gDi4tuaX36s)                     |                   |       |
+|          | Hoàng Yến Chibi | [Đồi Hoa Mặt Trời](https://www.youtube.com/watch?v=gDi4tuaX36s)                     |                   |       |
+|          | Trương Thảo Nhi | [Bốn Chữ Lắm](https://www.youtube.com/watch?v=i724lraI93s)                          |     Trúc Nhân     |       |
+|          |       Ái Phương | [Tôi Thấy Hoa Vàng Trên Cỏ Xanh](https://www.youtube.com/watch?v=SGIw_K3BEiY)       |     Trúc Nhân     |   9   |
+|          |       Ái Phương | [Tôi Thấy Hoa Vàng Trên Cỏ Xanh](https://www.youtube.com/watch?v=4km2drUdGh0)       |                   |   9   |
+|          |       Ái Phương | [Xuân Hạ Thu Đông Rồi Lại Xuân](https://www.youtube.com/watch?v=KoF4x9c8yhA)        |                   |       |
 
 ### Group
 
