@@ -52,6 +52,9 @@
   max-width: initial;
 }
 
+.md-typeset {
+  font-size: 0.6rem
+}
 .md-tabs {
   background-color: #704b4b;
 }
