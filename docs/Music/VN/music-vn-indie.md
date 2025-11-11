@@ -34,6 +34,8 @@
 | Phạm Nguyên Ngọc x VAnh x Ân Nhi | [Mặt Mộc](https://www.youtube.com/watch?v=v1ADEPnPt54)                         |                   |               |
 |                          Mounter | [Phép Màu](https://www.youtube.com/watch?v=jPjQJYKhhk4)                        | MAYDAYs, Minh Tốc |               |
 |                         thaiengg | [Chân Tình](https://www.youtube.com/watch?v=XAfHoNAn8pE)                       |                   |               |
+|                        Việt Quất | [Nguyện Làm Gió Theo Mây](https://www.youtube.com/watch?v=XVQJE44oXvg)         |     Thái Huệ      |               |
+
 
 ## Cover
 
