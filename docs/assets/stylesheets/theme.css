@@ -39,6 +39,9 @@
     --md-code-font: "JetBrains Mono";
 }
 
+[data-md-color-scheme=default] {
+    --md-default-bg-color: #e4e4e4;
+}
 [data-md-color-primary=blue-grey] {
     --md-primary-fg-color: #442b2b;
 }
