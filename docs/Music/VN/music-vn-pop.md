@@ -102,6 +102,7 @@
 |          |       Ái Phương | [Tôi Thấy Hoa Vàng Trên Cỏ Xanh](https://www.youtube.com/watch?v=4km2drUdGh0)       |                   |   9   |
 |          |       Ái Phương | [Xuân Hạ Thu Đông Rồi Lại Xuân](https://www.youtube.com/watch?v=KoF4x9c8yhA)        |                   |       |
 |          |   Văn Mai Hương | [Mưa Tháng Sáu](https://www.youtube.com/watch?v=_8vekzCF04Q)                        |                   |       |
+|          |           MiiNa | [Quyền Yếu Đuối](https://www.youtube.com/watch?v=Mjggdttdqmo)                       |  RIN9 x DREAMeR   |       |
 
 ### Group
 

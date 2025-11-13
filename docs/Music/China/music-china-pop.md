@@ -21,6 +21,8 @@
 |              ycccc | [Blue and White Porcelain](https://www.youtube.com/watch?v=KzNivs_BbG0)       |              | 青花 (恍恍惚惚 已经隔世) |                    |
 |        Lâm Bối Bối | [Không Sao Cả, Rời Xa Em](https://www.youtube.com/watch?v=aKA9RamlAGQ)        |              |                          |                    |
 |       Uông Tô Lang | [Có Chút Ngọt Ngào](https://www.youtube.com/watch?v=DOZlilR7Pgs)              | BY2          |                          |                    |
+|                 Uu | [Cô Ấy Nói Với Tôi  (COVER)](https://www.youtube.com/watch?v=EOGT548ZToY)     |              |       那女孩對我說       |                    |
+|              Từ Vi | [Anh Ấy Nói](https://www.youtube.com/watch?v=ivwl97d3ZeA)                     |              |                          |                    |
 
 ## Cổ Phong
 
@@ -31,7 +33,7 @@
 |                    Tát Đỉnh Đỉnh | [Tay Trái Chỉ Trăng](https://www.youtube.com/watch?v=aKA9RamlAGQ) |     | 左手指月 | 薩頂頂 |
 |                    Tát Đỉnh Đỉnh | [Bất Nhiễm](https://www.youtube.com/watch?v=xOWH3gzLnpQ)          |     | 不染     | 薩頂頂 |
 | Trương Bích Thần & Dương Tông Vỹ | [Lạnh Lẽo](https://www.youtube.com/watch?v=kLu0D0r1yqA)           |     |          |        |
-|                                  |                                                                   |     |          |        |
+|                                  | [Jar of Love ](https://www.youtube.com/watch?v=t4Os4nxEBfI)       |     | 曲婉婷   |        |
  
 ## Nhạc Xưa
 

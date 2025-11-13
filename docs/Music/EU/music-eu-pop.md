@@ -105,3 +105,9 @@
 |     Mena Massoud, Naomi Scott | [A Whole New World](https://www.youtube.com/watch?v=eitDnP0_83k)               |                  | Buồn, Có câu chuyện   |
 | Kungs vs Cookin’ on 3 Burners | [This Girl](https://www.youtube.com/watch?v=2Y6Nne8RvaA)                       |                  |                       |
 |                          MIIA | [Dynasty](https://www.youtube.com/watch?v=5-ZiKXrnvog)                         |                  |                       |
+
+## New
+
+|     Singer | Name                                                                        | Feat | Nhận xét |
+| ---------: | :-------------------------------------------------------------------------- | :--- | :------- |
+| Imagine Me | [She Still Cant Get Rid Of Me](https://www.youtube.com/watch?v=WRqPlcGEXvM) |      |          |
