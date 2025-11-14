@@ -60,21 +60,27 @@ nav:
       - Tổng quan: Cuisine/cuisine-nutrition.md
   - Âm Nhạc:
     - Việt Nam:
-      - Pop: Music/VN/music-vn-pop.md
-      - Bolero: Music/VN/music-vn-bolero.md
-      - Indie: Music/VN/music-vn-indie.md
-      - R,R&B,E: Music/VN/music-vn-rock-ballad-electronic.md
-      - Unknow: Music/VN/music-vn-unknow.md
-    - Nhạc Điện Tử:
-      - Misc 1: Music/Electronic/music-electronic-misc-1.md
+      - Pop: Music/music-vn-pop.md
+      - Bolero: Music/music-vn-bolero.md
+      - Indie: Music/music-vn-indie.md
+      - R,R&B,E: Music/music-vn-rock-ballad-electronic.md
+      - Unknow: Music/music-vn-unknow.md
+    - Trung Quốc:
+      - Pop: Music/music-china-pop.md
+      - Playlist: Music/music-china-playlist.md
+      - Another: Music/music-china-another.md
+    - Nhật Bản:
+      - Pop: Music/music-japan-pop.md
     - EU:
-      - Pop: Music/EU/music-eu-pop.md
-      - Dance: Music/EU/music-eu-dance.md
-      - Old: Music/EU/music-eu-old.md
-      - Cover: Music/EU/music-eu-cover.md
-      - Playlist: Music/EU/music-eu-playlist.md
+      - Pop: Music/music-eu-pop.md
+      - Dance: Music/music-eu-dance.md
+      - Old: Music/music-eu-old.md
+      - Cover: Music/music-eu-cover.md
+      - Playlist: Music/music-eu-playlist.md
     - Các nước khác:
-      - Đức: Music/Misc/music-germany.md
+      - Đức: Music/music-germany.md
+    - Nhạc Điện Tử:
+      - Misc 1: Music/music-misc-electronic.md
   - Gia Đình:
     - Họ Nội: Family/family-paternal-side.md
     - Họ Ngoại: Family/family-maternal-side.md
@@ -82,7 +88,6 @@ nav:
 extra_css:
   - assets/stylesheets/theme.css
   - assets/stylesheets/katex.min.css
-  # - https://unpkg.com/katex@0/dist/katex.min.css
 
 markdown_extensions:
   - attr_list
@@ -110,9 +115,6 @@ extra_javascript:
   - assets/scripts/keyevent.js
   - assets/scripts/katex.min.js
   - assets/scripts/auto-render.min.js
-
-  # - https://unpkg.com/katex@0/dist/katex.min.js
-  # - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
 
 extra:
   social:
