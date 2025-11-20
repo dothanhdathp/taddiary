@@ -7,7 +7,6 @@
 | Major Lazer & DJ Snake | [Lean On](https://www.youtube.com/watch?v=YqeW9_5kURI)                    | MØ           |
 |           Unlike Pluto | [No Scrubs](https://www.youtube.com/watch?v=d5AvqAbKrvs)                  | Joanna Jones |
 |           Unlike Pluto | [Everything Black](https://www.youtube.com/watch?v=mWKDZRJWdF4)           | Mike Taylor  |
-|           Unlike Pluto | [Save Room For Us](https://www.youtube.com/watch?v=mWKDZRJWdF4)           | Mike Taylor  |
 |                 Tiësto | [Don't Be Shy](https://www.youtube.com/watch?v=taSubkjZUA4)               | Karol G      |
 |                 Tiësto | [The Business](https://www.youtube.com/watch?v=nCg3ufihKyU)               |              |
 |                 Tiësto | [The Motto](https://www.youtube.com/watch?v=4LSU7Q86pAU)                  | Ava Max      |
@@ -18,15 +17,15 @@
 |                 Halsey | [Without Me](https://www.youtube.com/watch?v=ZAfAud_M_mg)                 |              |
 |             Bebe Rexha | [I'm A Mess](https://www.youtube.com/watch?v=nuEpNchGQ2Y)                 |              |
 |               Dua Lipa | [No Lie](https://www.youtube.com/watch?v=GzU8KqOY8YA)                     | Sean Paul    |
-|          Tinashe, MAKJ | [Save Room For Us](https://www.youtube.com/watch?v=BYxWtHMQ1oI)           |              |
 |      Sabrina Carpenter | [Nonsense](https://www.youtube.com/watch?v=YcSP1ZUf1eQ)                   |              |
 |      Sabrina Carpenter | [Eyes Wide Open](https://www.youtube.com/watch?v=R4VJyfCcOJc)             |              |
 |              Cash Cash | [How To Love ft Sofia Reyes](https://www.youtube.com/watch?v=peByeoQhjMM) |              |
 |            OneRepublic | [Counting Stars](https://www.youtube.com/watch?v=hT_nvWreIhg)             |              |
 |           Alice Merton | [No Roots](https://www.youtube.com/watch?v=PUdyuKaGQd4)                   |              |
 |         Rag'n'Bone Man | [Human](https://www.youtube.com/watch?v=L3wKzyIN1yk)                      |              |
+|           Unlike Pluto | [Everything Black](https://www.youtube.com/watch?v=mWKDZRJWdF4)           | Mike Taylor  |
 
-## Avicii & Vicetone & Clean Bandit
+## AVICII & VICETONE & CLEAN BANDIT
 
 |           Singer | Name                                                              | Feat           |
 | ---------------: | :---------------------------------------------------------------- | :------------- |
@@ -62,3 +61,15 @@
 |    Fall Out Boy | [The Phoenix](https://www.youtube.com/watch?v=5JqY-6q-RNA)         |      |
 |         Starset | [My Demons](https://www.youtube.com/watch?v=LSvOTw8UH6s)           | Hay  |
 |     hawk Nelson | [Sold Out](https://www.youtube.com/watch?v=GspDybPhOeY)            |      |
+
+## ELECTRIC
+
+|  Producer | Name                                                              | Feat |
+| --------: | :---------------------------------------------------------------- | :--- |
+| Chromance | [Wrap Me In Plastic](https://www.youtube.com/watch?v=nvrrePT-uVY) |      |
+
+## DaDen Nghe Tạm Được -_-
+
+|      Producer | Name                                                            | Feat |
+| ------------: | :-------------------------------------------------------------- | :--- |
+| Tinashe, MAKJ | [Save Room For Us](https://www.youtube.com/watch?v=BYxWtHMQ1oI) |      |

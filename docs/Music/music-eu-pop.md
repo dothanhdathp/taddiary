@@ -108,6 +108,8 @@
 
 ## New
 
-|     Singer | Name                                                                        | Feat | Nhận xét |
-| ---------: | :-------------------------------------------------------------------------- | :--- | :------- |
-| Imagine Me | [She Still Cant Get Rid Of Me](https://www.youtube.com/watch?v=WRqPlcGEXvM) |      |          |
+|       Singer | Name                                                                                           | Feat | Nhận xét |
+| -----------: | :--------------------------------------------------------------------------------------------- | :--- | :------- |
+|   Imagine Me | [She Still Cant Get Rid Of Me](https://www.youtube.com/watch?v=WRqPlcGEXvM)                    |      |          |
+| Ethan Horahn | [I'm Sorry (I Still Love You)](https://www.youtube.com/watch?v=bXgIuukU6Ik&list=RDxDSeVqe2J9g) |      |          |
+
