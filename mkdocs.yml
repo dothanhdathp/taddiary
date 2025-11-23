@@ -67,13 +67,16 @@ nav:
       - Unknow: Music/music-vn-unknow.md
     - Trung Quốc:
       - Pop: Music/music-china-pop.md
+      - By Name: Music/music-china-by-name.md
+      - R&B: Music/music-china-r-and-b.md
       - Playlist: Music/music-china-playlist.md
       - Another: Music/music-china-another.md
     - Nhật Bản:
       - Pop: Music/music-japan-pop.md
     - EU:
       - Pop: Music/music-eu-pop.md
-      - Dance: Music/music-eu-dance.md
+      - Dj & Elec.: Music/music-eu-dj-electronic.md
+      - Epic: Music/music-eu-epic.md
       - Old: Music/music-eu-old.md
       - Cover: Music/music-eu-cover.md
       - Playlist: Music/music-eu-playlist.md

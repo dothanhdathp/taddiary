@@ -7,7 +7,14 @@
 | Đoàn Thuý Trang | [Tình Yêu Màu Nắng](https://www.youtube.com/watch?v=D-6JDufCJ1Y) |     Big Daddy      |     |
 | Vũ Phụng Tiên   | [Lệ Lưu Ly](https://www.youtube.com/watch?v=0tFUfuEhh28)         | DT TẬP RAP x DRUM7 |     |
 
-## Nhạc Điện Tử
+## Electric
+
+| NSX            | Name                                                     |
+| :------------- | :------------------------------------------------------- |
+| Masew x KhoiVu | [Hối Duyên](https://www.youtube.com/watch?v=HScTQOhUKDA) |
+| Masew x KhoiVu | [Ái Nộ](https://www.youtube.com/watch?v=1pquvJRgIMY)     |
+| Masew x KhoiVu | [Nhất Thân](https://www.youtube.com/watch?v=lxzOIev1Pec) |
+
 
 ## Electric Instrument
 

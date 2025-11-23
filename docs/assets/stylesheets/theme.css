@@ -122,8 +122,8 @@ th {
   background-color: #704b4bdf;
   color: #ffffff;
 }
-
-td {
+.md-typeset table:not([class]) td {
+  padding: 0em 1em 0em 1em;
   font-size: small;
 }
 
