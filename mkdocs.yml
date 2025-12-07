@@ -38,6 +38,7 @@ nav:
   - Diary:
     - Note: index.md
     - Năm 2025:
+      - Tháng 12: 2025/2025-12.md
       - Tháng 10: 2025/2025-10.md
       - Tháng 9: 2025/2025-9.md
       - Tháng 8: 2025/2025-8.md
@@ -46,7 +47,7 @@ nav:
   - Đồ:
     - Máy Tính:
       - Bàn phím: Items/items-keyboards.md
-      - Windows Key: Items/items-windows-key.md
+      - Mini PC: Items/items-mini-pc.md
     - Đô Nội Thất:
       - Tủ Quần Áo: Items/items-furniture-wardrobe.md
   - Cuisine:
@@ -84,11 +85,17 @@ nav:
       - Đức: Music/music-germany.md
     - Nhạc Điện Tử:
       - Misc 1: Music/music-misc-electronic.md
+  - Phim:
+    - Mỹ: Movie/movie-america.md
+    - Trung Quốc: Movie/movie-china.md
   - Y Tế:
     - Y Tế: Medical/medical.md
   - Gia Đình:
     - Họ Nội: Family/family-paternal-side.md
     - Họ Ngoại: Family/family-maternal-side.md
+  - Khác:
+    - TÍCH LŨY TƯ BẢN NGUYÊN THỦY: Another/paper-tich-luy-tu-ban-nguyen-thuy.md
+    - Lagom - Vừa Đủ: Another/idea-lagom.md
 
 extra_css:
   - assets/stylesheets/theme.css

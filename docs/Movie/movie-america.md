@@ -2,12 +2,11 @@
 
 ## Top Rate
 
-| 1                                                            | 2                                                                                                      |
+|                            Cover                             | Name                                                                                                   |
 | :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------- |
-| ![alt text](img/iamsam.png){ .small-icon }                   | [__I Am Sam (2001)__](https://www.rophim.li/phim/ga-trong-nuoi-con.nsbhuwuv)                           |
-| ![alt text](img/forrest-gump.png){ .small-icon }             | [__Forrest Gump__](https://www.rophim.li/phim/chang-ngo-than-thien.vvIbRKfQ)                           |
+|          ![alt text](img/iamsam.png){ .small-icon }          | [__I Am Sam (2001)__](https://www.rophim.li/phim/ga-trong-nuoi-con.nsbhuwuv)                           |
+|       ![alt text](img/forrest-gump.png){ .small-icon }       | [__Forrest Gump__](https://www.rophim.li/phim/chang-ngo-than-thien.vvIbRKfQ)                           |
 | ![alt text](img/how-to-train-your-dragon.png){ .small-icon } | [__How to Train Your Dragon (Live Action)__](https://phimbro.com/movie/how-to-train-your-dragon~59173) |
-|                                                              |                                                                                                        |
   
 <div class="grid cards" markdown>
 <div class="grid-item" markdown>
@@ -28,6 +27,7 @@ This is the narrower column.
 <div class="grid-item" markdown>
 ### Content B (70%)
 This is the wider column.
+
 </div>
 </div>
 -->
