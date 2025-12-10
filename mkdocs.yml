@@ -36,7 +36,8 @@ plugins:
 
 nav:
   - Diary:
-    - Note: index.md
+    - Nhiệm Vụ: index.md
+    - Lưu Trữ: debit.md
     - Năm 2025:
       - Tháng 12: 2025/2025-12.md
       - Tháng 10: 2025/2025-10.md
