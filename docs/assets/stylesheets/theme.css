@@ -178,6 +178,14 @@ mark.blue {
   color: white;
   padding: 0.5em 1em 0.5em 1em;
 }
+.md-typeset table th[role=columnheader]:after {
+  background: white;
+}
+.md-typeset table th[role=columnheader][aria-sort=ascending]:after, .md-typeset table th[role=columnheader][aria-sort=descending]:after
+{
+  background-color: rgb(149, 255, 0);
+}
+
 .md-typeset table:not([class]) td {
   padding: 0em 1em 0em 1em;
   font-size: small;

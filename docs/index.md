@@ -2,11 +2,12 @@
 
 ## Cần Hoàn Thành
 
-| ✅  | Mô Tả                                                   |
-| :-: | :------------------------------------------------------ |
-|     | Trả nợ Trường bữa miến lươn.                            |
-|     | Ứng dụng __Tad-App__ mới update đấy, về cài đặt lại đi. |
-|     | Mua Pin Con Thỏ cho con chuột bluetooth ở nhà.          |
+| Check | Mô Tả                                                   |
+| :---: | :------------------------------------------------------ |
+|  ✅   | Trả nợ Trường bữa miến lươn.                            |
+|  ✅   | Ứng dụng __Tad-App__ mới update đấy, về cài đặt lại đi. |
+|  ✅   | Mua Pin Con Thỏ cho con chuột bluetooth ở nhà.          |
+|       | Cài Đặt Lại Nút cho cái bàn phím NEO đi                 |
 
 ## Nhiệm Vụ Dài
 
