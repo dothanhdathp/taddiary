@@ -2,32 +2,35 @@
 
 ## Top Rate
 
-|                            Cover                             | Name                                                                                                   |
-| :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------- |
-|          ![alt text](img/iamsam.png){ .small-icon }          | [__I Am Sam (2001)__](https://www.rophim.li/phim/ga-trong-nuoi-con.nsbhuwuv)                           |
-|       ![alt text](img/forrest-gump.png){ .small-icon }       | [__Forrest Gump__](https://www.rophim.li/phim/chang-ngo-than-thien.vvIbRKfQ)                           |
-| ![alt text](img/how-to-train-your-dragon.png){ .small-icon } | [__How to Train Your Dragon (Live Action)__](https://phimbro.com/movie/how-to-train-your-dragon~59173) |
-  
 <div class="grid cards" markdown>
-<div class="grid-item" markdown>
+<div class="grid-item" style="text-align: center; width: 20%;" markdown>
+![alt text](img/iamsam.png){ .small-icon }
+</div>
+<div class="grid-item" style="text-align: left; width: 70%;" markdown>
+#### I Am Sam (2001)
 
-</div>
-<div class="grid-item" markdown>
-
+[Xem Phim](https://www.rophim.li/phim/ga-trong-nuoi-con.nsbhuwuv)
 </div>
 </div>
 
+<div class="grid cards" markdown>
+<div class="grid-item" style="text-align: center; width: 20%;" markdown>
+![alt text](img/forrest-gump.png){ .small-icon }
+</div>
+<div class="grid-item" style="text-align: left; width: 70%;" markdown>
+#### Forrest Gump
 
-<!--
-<div class="grid cards **three-seven**" markdown>
-<div class="grid-item" markdown>
-### Content A (30%)
-This is the narrower column.
+[Xem Phim](https://www.rophim.li/phim/chang-ngo-than-thien.vvIbRKfQ)
 </div>
-<div class="grid-item" markdown>
-### Content B (70%)
-This is the wider column.
+</div>
 
+<div class="grid cards" markdown>
+<div class="grid-item" style="text-align: center; width: 20%;" markdown>
+![alt text](img/how-to-train-your-dragon.png){ .small-icon }
+</div>
+<div class="grid-item" style="text-align: left; width: 70%;" markdown>
+#### How to Train Your Dragon (Live Action)
+
+[Xem Phim](https://phimbro.com/movie/how-to-train-your-dragon~59173)
 </div>
 </div>
--->

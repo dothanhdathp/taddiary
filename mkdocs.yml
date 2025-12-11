@@ -130,8 +130,12 @@ extra_javascript:
   - assets/scripts/auto-render.min.js
 
 extra:
+  generator: false
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/dothanhdathp
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/tad.zeila?locale=vi_VN
+
+copyright:
+  ☕ Made by Tad Zeila!

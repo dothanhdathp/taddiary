@@ -1,6 +1,6 @@
 @font-face {
   font-family: "PrimaryFont";
-  src: url("../fonts/RadioCanada-Medium.ttf") format("truetype");
+  src: url("../fonts/Barlow-Medium.ttf") format("truetype");
   /* src: url("../fonts/RadioCanada-Medium.ttf") format("truetype"); */
 }
 
@@ -44,25 +44,18 @@
 }
 
 /* General Color Scheme */
-[data-md-color-primary=blue-grey] {
-  --md-primary-fg-color: #383239;
-  --md-primary-fg-color--light: #607c8a;
-  --md-primary-fg-color--dark: #455a63;
-  --md-primary-bg-color: #fff;
-  --md-primary-bg-color--light: #ffffffb3;
-  --md-typeset-a-color: #d5340c;
-}
 .md-tabs {
   background-color: #4a444b;
 }
 .md-footer {
   background-color: #4a444b;
 }
-[data-md-color-scheme=slate][data-md-color-primary=black], [data-md-color-scheme=slate][data-md-color-primary=blue-grey], [data-md-color-scheme=slate][data-md-color-primary=grey], [data-md-color-scheme=slate][data-md-color-primary=white] {
+[data-md-color-scheme=slate][data-md-color-primary="blue grey"], [data-md-color-scheme=slate][data-md-color-primary=blue-grey], [data-md-color-scheme=slate][data-md-color-primary=grey], [data-md-color-scheme=slate][data-md-color-primary=white] {
   --md-typeset-a-color: orange;
 }
 /* Light theme */
-[data-md-color-scheme=default] {
+[data-md-color-scheme=default][data-md-color-primary="blue-grey"] {
+  --md-typeset-a-color: #a04311;
   --md-default-bg-color: #e4e4e4;
   --md-code-bg-color: #d9d9d9;
   --custom-color-theme-h1--theme: #383239;
@@ -71,18 +64,20 @@
   --custom-color-theme-h4--theme: #4d324d;
   --custom-color-theme-h5--theme: #284a12;
   --custom-color-theme-h6--theme: #11484f;
-  --custom-linker-color: #009a8f;
+  --custom-color-grid-cards-backgroun-color: #6e2d7a21;
+  --custom-color-checkbox-color: #477c62;
 }
 /* Dark theme */
-[data-md-color-scheme=slate] {
+[data-md-color-scheme=slate][data-md-color-primary="blue-grey"] {
+  --md-typeset-a-color: #c09369;
   --md-default-bg-color: #1e1e1e;
   --custom-color-theme-h1--theme: #a697a8;
   --custom-color-theme-h2--theme: #a697a8;
-  --custom-color-theme-h3--theme: #c97374;
+  --custom-color-theme-h3--theme: #a37a48;
   --custom-color-theme-h4--theme: #785878;
   --custom-color-theme-h5--theme: #628848;
   --custom-color-theme-h6--theme: #467a80;
-  --custom-linker-color: #00ff92;
+  --custom-color-checkbox-color: #00e676;
 }
 
 /* Full width = max-width: initial; or try 100% or 1280px or ...  */
@@ -96,11 +91,18 @@
 .md-typeset {
   font-size: 0.6rem
 }
-
+.md-footer, .md-tabs {
+  background-color: #544555;
+}
+.md-header, .md-footer-meta {
+  background-color: #383239;
+}
 .md-main__inner.md-grid.full-width {
   max-width: initial;
 }
-
+a:not(.md-nav__link):not(.md-tabs__link):not(.md-nav__link--active):not(.md-header__button) {
+  font-style: italic;
+}
 .md-nav__item .md-nav__link--active, .md-nav__item .md-nav__link--active code {
   font-weight: bold;
 }
@@ -113,9 +115,6 @@
 }
 label.md-nav__link::before {
   content: "🖿 ";
-}
-.md-typeset a {
-  color: var(--custom-linker-color);
 }
 .md-typeset h1 {
   font-weight: bold;
@@ -218,4 +217,15 @@ div.grid-container-4-3 {
 
 img.small-icon {
   width: 120px;
+}
+
+.md-typeset .grid {
+  display: -webkit-box;
+}
+div.grid.cards {
+  background-color: var(--custom-color-grid-cards-backgroun-color);
+}
+
+.md-typeset [type=checkbox]:checked+.task-list-indicator:before {
+    background-color: var(--custom-color-checkbox-color);
 }
