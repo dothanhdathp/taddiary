@@ -35,16 +35,19 @@ plugins:
       puml_url: https://www.plantuml.com/plantuml/
 
 nav:
-  - Diary:
-    - Nhiệm Vụ: index.md
-    - Lưu Trữ: debit.md
-    - Năm 2025:
-      - Tháng 12: 2025/2025-12.md
-      - Tháng 10: 2025/2025-10.md
-      - Tháng 9: 2025/2025-9.md
-      - Tháng 8: 2025/2025-8.md
-      - Tháng 7: 2025/2025-7.md
-      - Tháng 6: 2025/2025-6.md
+  - Chung:
+    - Nhiệm Vụ:
+      - ☑️ Task: index.md
+      - ⚔️ Quest: quest.md
+      - 🗒️ Note: note.md
+    - Diary:
+      - Năm 2025:
+        - Tháng 12: 2025/2025-12.md
+        - Tháng 10: 2025/2025-10.md
+        - Tháng 9: 2025/2025-9.md
+        - Tháng 8: 2025/2025-8.md
+        - Tháng 7: 2025/2025-7.md
+        - Tháng 6: 2025/2025-6.md
   - Đồ:
     - Máy Tính:
       - Bàn phím: Items/items-keyboards.md
