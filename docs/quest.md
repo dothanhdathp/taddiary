@@ -7,6 +7,15 @@
         - Debian không phải tier 1 cho ROS thế nên không cài đặt thành công ROS cho debian.
         - <mark>Kiểm tra tài liệu của __ROS__ có trong ổ cứng ở nhà không?</mark>
 
+!!! example "Android"
+    - Kotlin
+!!! example "C/C++"
+    - Thread
+    
+!!! example "FTXUI"
+
+!!! example "Java"
+
 ## Lưu Trữ
 
 !!! quote "Tìm hiểu về mã hóa"

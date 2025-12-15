@@ -3,10 +3,12 @@
 ## To Do
 
 !!! danger "Danger"
-    - [ ] Tad-App lại được sửa. Cập nhật đi.
-    - [ ] Làm cho con em cái dây phơi quần áo.
+    - [ ] In 3D cái giá đỡ điện thoại đê.
+    - [ ] In 3D lại cái ví đựng tiền với thẻ.
 !!! warning "Warning"
     - [ ] Cài Đặt Lại Nút cho cái bàn phím NEO đi.
+    - [ ] <mark class=red>Cuối Tuần</mark> Dọn nhà.
+    - [ ] <mark class=red>Làm cho con em cái dây phơi quần áo.</mark>
 !!! abstract "Abstract"
     - [ ] Còn một cái USB về nhà flash nốt.
     - [ ] Tiêu thụ hết __Chả Cá Mẹ Làm__ đi.
