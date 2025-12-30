@@ -19,21 +19,39 @@ confirm_action() {
     done
 }
 
-# Call the function and check its return status
-if confirm_action "Do you want create a new linux-venv?"; then
-    echo "Remove old python venv"
-    sudo rm -rf linux-venv
-fi
-
-# main
-echo "Start python env"
-python3 -m venv linux-venv
-source linux-venv/bin/activate
-echo "Install requeriment"
-pip install click==8.0.4
-pip install mkdocs
-pip install pymdown-extensions
-pip install mkdocs-material
-pip install mkdocs_puml
-pip install mkdocs-network-graph-plugin
-deactivate
+case $1 in
+  "-i")
+    if [ -z $2 ]; then
+        echo Add package name \[package-name\]
+        echo env.sh -i \[package-name\]
+        exit 1
+    fi
+    python3 -m venv linux-venv
+    source linux-venv/bin/activate
+    pip install mkdocs_puml $2
+    ;;
+  "-c")
+    python3 -m venv linux-venv
+    source linux-venv/bin/activate
+    ${@:2}
+    ;;
+  *)
+    if confirm_action "Do you want create a new linux-venv?"; then
+        echo "Remove old python venv"
+        sudo rm -rf linux-venv
+    fi
+    echo "Start python env"
+    python3 -m venv linux-venv
+    source linux-venv/bin/activate
+    echo "Install requeriment"
+    pip install click==8.0.4
+    pip install mkdocs
+    pip install pymdown-extensions
+    pip install mkdocs-markmap
+    pip install mkdocs-material
+    pip install mkdocs_puml
+    pip install mkdocs-network-graph-plugin
+    pip install mkdocs-mermaid2-plugin
+    deactivate
+    ;;
+esac
