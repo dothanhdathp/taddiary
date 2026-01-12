@@ -40,9 +40,9 @@ plugins:
 nav:
   - Chung:
     - Nhiệm Vụ:
-      - ☑️ Task: index.md
-      - ⚔️ Quest: quest.md
-      - 🗒️ Note: note.md
+      - Task: index.md
+      - Quest: quest.md
+      - Note: note.md
     - Diary:
       - Năm 2025:
         - Tháng 12: 2025/2025-12.md
@@ -52,12 +52,12 @@ nav:
         - Tháng 7: 2025/2025-7.md
         - Tháng 6: 2025/2025-6.md
   - Đồ:
-    - Máy Tính:
-      - Bàn Phím: Items/items-keyboards.md
-      - Custom Phím: Items/items-keyboards-custom.md
-      - Mini PC: Items/items-mini-pc.md
-    - Đô Nội Thất:
-      - Tủ Quần Áo: Items/items-furniture-wardrobe.md
+    - Bàn Phím: Items/items-keyboards.md
+    - Custom Phím: Items/items-keyboards-custom.md
+    - Mini PC: Items/items-mini-pc.md
+    - Tai Nghe: Items/items-earphone.md
+  - Nhà:
+    - Tủ Quần Áo: Items/items-furniture-wardrobe.md
   - Cuisine:
     - Tổng quan: Cuisine/cuisine.md
     - Thịt:
