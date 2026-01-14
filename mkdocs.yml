@@ -95,7 +95,10 @@ nav:
       - Misc 1: Music/music-misc-electronic.md
   - Phim:
     - Mỹ: Movie/movie-america.md
-    - Trung Quốc: Movie/movie-china.md
+    - Trung Quốc:
+      - Phim Thường: Movie/movie-china.md
+      - Phim Ngắn: Movie/movie-china-short-movie.md
+      - Diễn Viên: Movie/movie-china-character.md
   - Y Tế:
     - Y Tế: Medical/medical.md
   - Gia Đình:
