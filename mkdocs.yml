@@ -44,6 +44,19 @@ nav:
       - Quest: quest.md
       - Note: note.md
     - Diary:
+      - Năm 2026:
+        - Tháng 01: Diary/2026/2026-01.md
+        # - Tháng 02: Diary/2026/2026-02.md
+        # - Tháng 03: Diary/2026/2026-03.md
+        # - Tháng 04: Diary/2026/2026-04.md
+        # - Tháng 05: Diary/2026/2026-05.md
+        # - Tháng 06: Diary/2026/2026-06.md
+        # - Tháng 07: Diary/2026/2026-07.md
+        # - Tháng 08: Diary/2026/2026-08.md
+        # - Tháng 09: Diary/2026/2026-09.md
+        # - Tháng 10: Diary/2026/2026-10.md
+        # - Tháng 11: Diary/2026/2026-11.md
+        # - Tháng 12: Diary/2026/2026-12.md
       - Năm 2025:
         - Tháng 06: Diary/2025/2025-06.md
         - Tháng 07: Diary/2025/2025-07.md
@@ -52,19 +65,6 @@ nav:
         - Tháng 10: Diary/2025/2025-11.md
         - Tháng 10: Diary/2025/2025-10.md
         - Tháng 12: Diary/2025/2025-12.md
-      - Năm 2026:
-        - Tháng 01: Diary/2026/2026-01.md
-        - Tháng 02: Diary/2026/2026-02.md
-        - Tháng 03: Diary/2026/2026-03.md
-        - Tháng 04: Diary/2026/2026-04.md
-        - Tháng 05: Diary/2026/2026-05.md
-        - Tháng 06: Diary/2026/2026-06.md
-        - Tháng 07: Diary/2026/2026-07.md
-        - Tháng 08: Diary/2026/2026-08.md
-        - Tháng 09: Diary/2026/2026-09.md
-        - Tháng 10: Diary/2026/2026-10.md
-        - Tháng 11: Diary/2026/2026-11.md
-        - Tháng 12: Diary/2026/2026-12.md
   - Đồ:
     - Bàn Phím: Items/items-keyboards.md
     - Custom Phím: Items/items-keyboards-custom.md

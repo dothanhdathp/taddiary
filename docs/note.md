@@ -11,3 +11,9 @@
     - [ ] Nợ Ram 325.000
     - [ ] Nợ tiền ăn 190.000
     - [ ] Nợ 10.000.000 tiền cho bố vay đến giờ vẫn chưa trả.
+
+!!! failure "Trường Nợ"
+    - [ ] Trường còn nợ 10.000.000 tiền cưới, năm sau trả.
+
+## Cá nhân một chút
+

@@ -3,7 +3,7 @@
 ## Đang làm
 
 !!! warning "Nghiên Cứu ROS"
-    1. Nghiên Cứu ROS và ghi lại vào [Tài Liệu Trong DEV](http://localhost:65001/ROS/ros/)
+    1. Nghiên Cứu ROS và ghi lại vào [Tài Liệu Trong DEV](http://localhost:65002/ROS/ros/)
         - Debian không phải tier 1 cho ROS thế nên không cài đặt thành công ROS cho debian.
         - <mark>Kiểm tra tài liệu của __ROS__ có trong ổ cứng ở nhà không?</mark>
 
