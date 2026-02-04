@@ -9,13 +9,13 @@ theme:
   hljs_style_dark: github-dark
   palette:
   - scheme: default
-    primary: blue grey
+    primary: indigo
     accent: pink
     toggle:
       icon: material/brightness-4
       name: Switch to dark mode
   - scheme: slate
-    primary: blue grey
+    primary: indigo
     accent: pink
     toggle:
       icon: material/brightness-7
@@ -31,11 +31,10 @@ theme:
 
 plugins:
   - search
-  - mermaid2:
-      javascript: https://unpkg.com/mermaid@11.12.2/dist/mermaid.esm.min.mjs
-  - markmap
   - plantuml:
-      puml_url: https://www.plantuml.com/plantuml/
+      # puml_url: https://www.plantuml.com/plantuml/
+      puml_url: http://localhost:8080/
+  - graph
 
 nav:
   - Chung:

@@ -2,6 +2,7 @@
 
 ```puml
 @startuml
+skinparam backgroundcolor transparent
 !define MARRIAGE(x, y) x --> y : "vợ/chồng"
 !define CHILDREN(parents, kids) parents --> kids : "con"
 

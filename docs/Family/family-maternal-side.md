@@ -2,6 +2,8 @@
 
 ```puml
 @startmindmap
+skinparam backgroundcolor transparent
+
 top to bottom direction
 * Cụ X
 **[#lightblue]:==Phan Xuân Phước
