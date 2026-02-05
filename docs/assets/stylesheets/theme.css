@@ -91,6 +91,11 @@ body {
 .md-typeset h5 {color: var(--md-header-h5); font-weight: bold; }
 .md-typeset h6 {color: var(--md-header-h6); font-weight: bold; }
 
+.md-typeset a:not([class]) {
+  color: var(--md-default-fg-color--light);
+  text-decoration: underline;
+}
+
 /* This setup for full scale */
 .md-main__inner.md-grid.full-width {
   max-width: initial;
