@@ -54,7 +54,9 @@ body {
   --md-code-header-color: var(--main-theme-color-lightest);
   --md-table-header-color: var(--main-theme-color-lighter);
   --md-header-h2: hsl(calc(var(--h) - 180), var(--s), var(--l));
+  --md-header-h2-background: hsla(calc(var(--h) - 180), var(--s), var(--l), 0.1);
   --md-header-h3: hsl(calc(var(--h) - 120), var(--s), var(--l));
+  --md-header-h3-background: hsla(calc(var(--h) - 120), var(--s), var(--l), 0.1);
   --md-header-h4: hsl(calc(var(--h) -  60), var(--s), var(--l));
   --md-header-h5: hsl(calc(var(--h) +  60), var(--s), var(--l));
   --md-header-h6: hsl(calc(var(--h) + 120), var(--s), var(--l));
@@ -74,8 +76,10 @@ body {
   --md-code-bg-color: rgb(38, 38, 38);
   --md-code-header-color: var(--main-theme-revert-color-lightest);
   --md-table-header-color: var(--main-theme-color);
-  --md-header-h2: hsl(calc(var(--h) - 180), var(--rs), var(--rl));
-  --md-header-h3: hsl(calc(var(--h) - 120), var(--rs), var(--rl));
+  --md-header-h2: hsl(calc(var(--h) - 180), var(--s), var(--l));
+  --md-header-h2-background: hsla(calc(var(--h) - 180), var(--rs), var(--rl), 0.1);
+  --md-header-h3: hsl(calc(var(--h) - 120), var(--s), var(--l));
+  --md-header-h3-background: hsla(calc(var(--h) - 120), var(--rs), var(--rl), 0.1);
   --md-header-h4: hsl(calc(var(--h) -  60), var(--rs), var(--rl));
   --md-header-h5: hsl(calc(var(--h) +  60), var(--rs), var(--rl));
   --md-header-h6: hsl(calc(var(--h) + 120), var(--rs), var(--rl));
