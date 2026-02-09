@@ -35,6 +35,7 @@ plugins:
       # puml_url: https://www.plantuml.com/plantuml/
       puml_url: http://localhost:8080/
   - graph
+  - macros
 
 nav:
   - Chung:
@@ -107,7 +108,8 @@ nav:
     - Nhạc Điện Tử:
       - Misc 1: Music/music-misc-electronic.md
   - Phim:
-    - Mỹ: Movie/movie-america.md
+    - Mỹ:
+      - Mỹ: Movie/movie-america.md
     - Trung Quốc:
       - Phim Thường: Movie/movie-china.md
       - Phim Ngắn: Movie/movie-china-short-movie.md
