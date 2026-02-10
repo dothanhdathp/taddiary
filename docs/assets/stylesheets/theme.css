@@ -170,5 +170,5 @@ img.small-icon {
   display: -webkit-box;
 }
 div.grid.cards {
-  background-color: #6e2d7a21;
+  background-color: hsl(var(--h), var(--s), var(--l), 0.2);
 }
