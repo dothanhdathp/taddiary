@@ -53,13 +53,13 @@ body {
   --md-code-bg-color: rgb(228, 228, 228);
   --md-code-header-color: var(--main-theme-color-lightest);
   --md-table-header-color: var(--main-theme-color-lighter);
-  --md-header-h2: hsl(mod(calc(var(--h) +  60), 360), calc(var(--s) + 10%), calc(var(--l) + 10%));
-  --md-header-h3: hsl(mod(calc(var(--h) + 120), 360), calc(var(--s) + 10%), calc(var(--l) + 10%));
-  --md-header-h4: hsl(mod(calc(var(--h) + 180), 360), calc(var(--s) + 10%), calc(var(--l) + 10%));
-  --md-header-h5: hsl(mod(calc(var(--h) + 240), 360), calc(var(--s) + 10%), calc(var(--l) + 10%));
-  --md-header-h6: hsl(mod(calc(var(--h) + 300), 360), calc(var(--s) + 10%), calc(var(--l) + 10%));
-  --md-header-h2-background: hsla(mod(calc(var(--h) +  60), 360), calc(var(--s) + 10%), calc(var(--l) + 10%), 0.1);
-  --md-header-h3-background: hsla(mod(calc(var(--h) + 120), 360), calc(var(--s) + 10%), calc(var(--l) + 10%), 0.1);
+  --md-header-h2: var(--main-theme-color);
+  --md-header-h3: hsl(mod(calc(var(--h) +  72), 360), calc(var(--s) + 10%), calc(var(--l) + 10%));
+  --md-header-h4: hsl(mod(calc(var(--h) + 144), 360), calc(var(--s) + 10%), calc(var(--l) + 10%));
+  --md-header-h5: hsl(mod(calc(var(--h) + 216), 360), calc(var(--s) + 10%), calc(var(--l) + 10%));
+  --md-header-h6: hsl(mod(calc(var(--h) + 288), 360), calc(var(--s) + 10%), calc(var(--l) + 10%));
+  --md-header-h2-background: hsla(var(--h), calc(var(--s) + 10%), calc(var(--l) + 10%), 0.1);
+  --md-header-h3-background: hsla(mod(calc(var(--h) + 72), 360), calc(var(--s) + 10%), calc(var(--l) + 10%), 0.1);
   --md-typeset-a-color: var(--md-default-fg-color--light);
 }
 /* Dark Theme */
@@ -76,13 +76,13 @@ body {
   --md-code-bg-color: rgb(38, 38, 38);
   --md-code-header-color: var(--main-theme-revert-color-lightest);
   --md-table-header-color: var(--main-theme-color);
-  --md-header-h2: hsl(mod(calc(var(--h) +  60), 360), calc(var(--rs) - 10%), calc(var(--rl) - 10%));
-  --md-header-h3: hsl(mod(calc(var(--h) + 120), 360), calc(var(--rs) - 10%), calc(var(--rl) - 10%));
-  --md-header-h4: hsl(mod(calc(var(--h) + 180), 360), calc(var(--rs) - 10%), calc(var(--rl) - 10%));
-  --md-header-h5: hsl(mod(calc(var(--h) + 240), 360), calc(var(--rs) - 10%), calc(var(--rl) - 10%));
-  --md-header-h6: hsl(mod(calc(var(--h) + 300), 360), calc(var(--rs) - 10%), calc(var(--rl) - 10%));
-  --md-header-h2-background: hsla(mod(calc(var(--h) +  60), 360), calc(var(--rs) - 10%), calc(var(--rl) - 10%), 0.1);
-  --md-header-h3-background: hsla(mod(calc(var(--h) + 120), 360), calc(var(--rs) - 10%), calc(var(--rl) - 10%), 0.1);
+  --md-header-h2: var(--main-theme-revert-color);
+  --md-header-h3: hsl(mod(calc(var(--h) +  72), 360), calc(var(--rs) + 10%), calc(var(--rl) + 10%));
+  --md-header-h4: hsl(mod(calc(var(--h) + 144), 360), calc(var(--rs) + 10%), calc(var(--rl) + 10%));
+  --md-header-h5: hsl(mod(calc(var(--h) + 216), 360), calc(var(--rs) + 10%), calc(var(--rl) + 10%));
+  --md-header-h6: hsl(mod(calc(var(--h) + 288), 360), calc(var(--rs) + 10%), calc(var(--rl) + 10%));
+  --md-header-h2-background: hsla(var(--h), calc(var(--rs) + 10%), calc(var(--rl) + 10%), 0.1);
+  --md-header-h3-background: hsla(mod(calc(var(--h) + 72), 360), calc(var(--rs) + 10%), calc(var(--rl) + 10%), 0.1);
   --md-typeset-a-color: var(--md-default-fg-color--light);
   --md-selected-background-color: var(--md-default-fg-color--light);
 }
