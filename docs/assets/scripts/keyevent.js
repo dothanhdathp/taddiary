@@ -1,6 +1,6 @@
 // assets/js/hotkeys.js
 document.addEventListener('keydown', function (event) {
-    if (event.key === 'm') {
+    if (event.ctrlKey && event.key === 'm') {
         const grid = document.querySelector('.md-main__inner.md-grid');
         if (!grid) return;
 
