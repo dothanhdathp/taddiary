@@ -45,4 +45,37 @@
     - [Hải Nội Tồn Tri Kỷ](https://www.youtube.com/watch?v=ZnA4UpfKBDA)
 
 
-??? note "Nhậm Nhiên"
+??? note "Trì Ngư"
+    | Tên Bài                                       | 2   |
+    | :-------------------------------------------- | :-- |
+    | Giả vờ                                        |     |
+    | Hoàng hôn                                     | Hay |
+    | Họa tâm                                       | Hay |
+    | Em nghe nói                                   |     |
+    | Nhà ai                                        |     |
+    | Đáp lại                                       |     |
+    | Quãng đời còn lại quá ngắn ngủi               |     |
+    | Nếu như đây chính là tình yêu (ft Qua Qua Từ) |     |
+    | Hóa thành gió ôm lấy anh                      |     |
+    | Tình yêu chuyển dời                           |     |
+    | Thiên nhược hữu tình                          |     |
+    | Thiên hậu                                     |     |
+    | Mộng ngư                                      |     |
+    | Kiếm tâm                                      |     |
+    | Bùn xuân                                      |     |
+    | Tĩnh lặng                                     |     |
+    | Mùa thu lặng lẽ đến                           |     |
+    | Cô gái à, em đừng khóc                        | Hay |
+    | Lá thu bi thương lìa cành                     | Hay |
+    | Ráng chiều và thiếu niên                      |     |
+    | Nếu như có thể                                |     |
+    | Cứ như vậy đi                                 |     |
+    | Cô nương ở phương xa                          |     |
+    | Bí mật ấy                                     |     |
+    | Nước mắt lại rơi thêm một ngày                |     |
+    | Người mất ngôn ngữ                            |     |
+    | Thừa phong khứ (ft Yên (Hứa Giai Hào))        |     |
+    | Ấm áp và bầu bạn                              |     |
+    | Lời mẹ nói                                    |     |
+    | Nắng mưa                                      |     |
+    | Bắt đầu thích rồi                             |     |

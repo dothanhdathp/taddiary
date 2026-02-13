@@ -114,6 +114,8 @@ nav:
       - Phim Thường: Movie/movie-china.md
       - Phim Ngắn: Movie/movie-china-short-movie.md
       - Diễn Viên: Movie/movie-china-character.md
+    - Hàn Quốc:
+      - 18+: Movie/movie-korea-18-movie.md
   - Y Tế:
     - Y Tế: Medical/medical.md
   - Gia Đình:
