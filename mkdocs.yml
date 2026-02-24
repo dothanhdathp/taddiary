@@ -1,0 +1,169 @@
+site_name: Tad Diary
+theme:
+  name: material
+  logo: assets/logo/cat_white.png
+  text: Noto Serif Medium
+  code: Roboto Mono Medium
+  highlightjs: true
+  hljs_style: github
+  hljs_style_dark: github-dark
+  palette:
+  - scheme: default
+    primary: indigo
+    accent: pink
+    toggle:
+      icon: material/brightness-4
+      name: Switch to dark mode
+  - scheme: slate
+    primary: indigo
+    accent: pink
+    toggle:
+      icon: material/brightness-7
+      name: Switch to light mode
+  features:
+    - content.code.annotation
+    - content.code.copy
+    - content.tabs.link
+    - navigation.tabs
+    - navigation.instant
+    - navigation.footer
+    - navigation.tracking
+
+plugins:
+  - search
+  - plantuml:
+      # puml_url: https://www.plantuml.com/plantuml/
+      puml_url: http://localhost:8080/
+  - graph
+  - macros
+
+nav:
+  - Chung:
+    - Nhiệm Vụ:
+      - Task: index.md
+      - Quest: quest.md
+      - Note: note.md
+    - Diary:
+      - Năm 2026:
+        - Tháng 01: Diary/2026/2026-01.md
+        - Tháng 02: Diary/2026/2026-02.md
+        - Tháng 03: Diary/2026/2026-03.md
+        # - Tháng 04: Diary/2026/2026-04.md
+        # - Tháng 05: Diary/2026/2026-05.md
+        # - Tháng 06: Diary/2026/2026-06.md
+        # - Tháng 07: Diary/2026/2026-07.md
+        # - Tháng 08: Diary/2026/2026-08.md
+        # - Tháng 09: Diary/2026/2026-09.md
+        # - Tháng 10: Diary/2026/2026-10.md
+        # - Tháng 11: Diary/2026/2026-11.md
+        # - Tháng 12: Diary/2026/2026-12.md
+      - Năm 2025:
+        - Tháng 06: Diary/2025/2025-06.md
+        - Tháng 07: Diary/2025/2025-07.md
+        - Tháng 08: Diary/2025/2025-08.md
+        - Tháng 09: Diary/2025/2025-09.md
+        - Tháng 10: Diary/2025/2025-11.md
+        - Tháng 10: Diary/2025/2025-10.md
+        - Tháng 12: Diary/2025/2025-12.md
+  - Đồ:
+    - Bàn Phím: Items/items-keyboards.md
+    - Custom Phím: Items/items-keyboards-custom.md
+    - Mini PC: Items/items-mini-pc.md
+    - Tai Nghe: Items/items-earphone.md
+  - Nhà:
+    - Tủ Quần Áo: Items/items-furniture-wardrobe.md
+  - Cuisine:
+    - Tổng quan: Cuisine/cuisine.md
+    - Thịt:
+      - Gà: Cuisine/cuisine-meat-chicken.md
+    - Đồ uống:
+      - Trà: Cuisine/cuisine-tea.md
+      - Cafe: Cuisine/cuisine-coffee.md
+    - Dinh dưỡng:
+      - Tổng quan: Cuisine/cuisine-nutrition.md
+  - Âm Nhạc:
+    - Việt Nam:
+      - Pop: Music/music-vn-pop.md
+      - Bolero: Music/music-vn-bolero.md
+      - Indie: Music/music-vn-indie.md
+      - R,R&B,E: Music/music-vn-rock-ballad-electronic.md
+      - Unknow: Music/music-vn-unknow.md
+    - Trung Quốc:
+      - Pop: Music/music-china-pop.md
+      - By Name: Music/music-china-by-name.md
+      - R&B: Music/music-china-r-and-b.md
+      - Playlist: Music/music-china-playlist.md
+      - Another: Music/music-china-another.md
+    - Nhật Bản:
+      - Pop: Music/music-japan-pop.md
+    - EU:
+      - Pop: Music/music-eu-pop.md
+      - Dj & Elec.: Music/music-eu-dj-electronic.md
+      - Epic: Music/music-eu-epic.md
+      - Old: Music/music-eu-old.md
+      - Cover: Music/music-eu-cover.md
+      - Playlist: Music/music-eu-playlist.md
+    - Các nước khác:
+      - Đức: Music/music-germany.md
+    - Nhạc Điện Tử:
+      - Misc 1: Music/music-misc-electronic.md
+  - Phim:
+    - Mỹ:
+      - Mỹ: Movie/movie-america.md
+    - Trung Quốc:
+      - Phim Thường: Movie/movie-china.md
+      - Phim Ngắn: Movie/movie-china-short-movie.md
+      - Diễn Viên: Movie/movie-china-character.md
+    - Adult:
+      - China 18+: Movie/movie-china-18-movie.md
+      - Korea 18+: Movie/movie-korea-18-movie.md
+  - Y Tế:
+    - Y Tế: Medical/medical.md
+  - Gia Đình:
+    - Họ: Family/family.md
+  - Luyện Tập:
+    - Leetcode:
+      - Danh Sách: Practice/leetcode.md
+      - "78. Subset": Practice/leetcode-0078.md
+      - "79. Word Search": Practice/leetcode-0079.md
+  - Khác:
+    - TÍCH LŨY TƯ BẢN NGUYÊN THỦY: Another/paper-tich-luy-tu-ban-nguyen-thuy.md
+    - Lagom - Vừa Đủ: Another/idea-lagom.md
+
+extra_css:
+  - assets/stylesheets/theme.css
+  - assets/stylesheets/katex.min.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight
+  - pymdownx.superfences:
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+
+extra_javascript:
+  - assets/scripts/tablesort.min.js
+  - assets/scripts/tablesort.js
+  - assets/scripts/katex.js
+  - assets/scripts/keyevent.js
+  - assets/scripts/katex.min.js
+  - assets/scripts/auto-render.min.js
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/dothanhdathp
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/tad.zeila?locale=vi_VN
+
+copyright:
+  ☕ Made by Tad Zeila!
