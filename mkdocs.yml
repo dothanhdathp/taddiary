@@ -121,11 +121,32 @@ nav:
     - Y Tế: Medical/medical.md
   - Gia Đình:
     - Họ: Family/family.md
+    - Other Side: Family/family-other-side.md
   - Luyện Tập:
     - Leetcode:
       - Danh Sách: Practice/leetcode.md
-      - "78. Subset": Practice/leetcode-0078.md
-      - "79. Word Search": Practice/leetcode-0079.md
+      - "0001. Two Sum": Practice/leetcode-0001.md
+      - "0002. Add Two Numbers": Practice/leetcode-0002.md
+      - "0003. Longest Substring Without Repeating Characters": Practice/leetcode-0003.md
+      - "0011. Container With Most Water": Practice/leetcode-0011.md
+      - "0037. Sudoku Solver": Practice/leetcode-0037.md
+      - "0039. Combination Sum": Practice/leetcode-0039.md
+      - "0046. Permutations (Hoán vị)": Practice/leetcode-0046.md
+      - "0047. Permutations II": Practice/leetcode-0047.md
+      - "0054. Spiral Matrix": Practice/leetcode-0054.md
+      - "0054. Spiral Matrix": Practice/leetcode-0054.md
+      - "0057. Insert Interval": Practice/leetcode-0057.md
+      - "0077. Combinations": Practice/leetcode-0077.md
+      - "0078. Subset": Practice/leetcode-0078.md
+      - "0079. Word Search": Practice/leetcode-0079.md
+      - "0179. Largest Number": Practice/leetcode-0179.md
+      - "0696. Count Binary Substrings": Practice/leetcode-0696.md
+      - "0875. Koko Eating Bananas": Practice/leetcode-0875.md
+      - "1486. XOR Operation in an Array": Practice/leetcode-1486.md
+      - "3799. Word Squares II": Practice/leetcode-3799.md
+      - "0090. Subsets II": Practice/leetcode-0090.md
+      - "0081. Search in Rotated Sorted Array II": Practice/leetcode-0081.md
+      - "1356. Sort Integers by The Number of 1 Bits": Practice/leetcode-1356.md
   - Khác:
     - TÍCH LŨY TƯ BẢN NGUYÊN THỦY: Another/paper-tich-luy-tu-ban-nguyen-thuy.md
     - Lagom - Vừa Đủ: Another/idea-lagom.md

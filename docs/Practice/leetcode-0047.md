@@ -12,7 +12,7 @@ _Khác biệt ở đây là các hoán vị không được trùng lặp._
 
 - __Input__: nums = [1,1,2]
 - __Output__: [[1,1,2], [1,2,1], [2,1,1]]
-    - Với phép hoán vị thông thường, kết quả trả về _[1, 1, 2], [1, 2, 1], __[1, 1, 2]__, __[1, 2, 1]__, [2, 1, 1], __[2, 1, 1]___ có ba giá trị trùng lặp bị loại bỏ.
+    - Với phép hoán vị thông thường, kết quả trả về _[1, 1, 2], [1, 2, 1], <mark>[1, 1, 2]</mark>, <mark>[1, 2, 1]</mark>, [2, 1, 1], <mark>[2, 1, 1]</mark>_ có ba giá trị trùng lặp bị loại bỏ.
     - Ở đây không được trùng lặp không được tính.
 
 ### 47.3 Bài giải

@@ -7,6 +7,7 @@
 
 Bài này đầu vào là chuỗi `vector<int>` có giá trị khác biệt hoàn toàn. Đầu ra yêu cầu đưa ra toàn bộ tổ hợp hoán vị của chuỗi đó. Ví dụ:
 
+{% raw %}
 ```text
 In:
 {1,2}
@@ -20,6 +21,7 @@ Out:
  {1,3,2}, {3,1,2},
  {1,2,3}, {2,1,3}}
 ```
+{% endraw %}
 
 Với cách làm hiện tại của mình là dùng đệ quy:
 
@@ -91,3 +93,7 @@ Kết quả hãy nhìn:
 	Có thấy không? Họ giữ nguyên số đầu, giữ số tiếp và ... xoay lần lượt như cái cách mình nghĩ đầu tiên nhưng không biết code thế nào.
 	
 	Giải thuật ở đây tên là `Backtracking`. Đây là một câu hỏi phỏng vấn thật sự. Cần nghiền ngẫm.
+
+## Liên Quan
+
+- Bài tiếp theo: [0047. Permutations II](leetcode-0047.md)
