@@ -139,9 +139,11 @@ nav:
       - "0077. Combinations": Practice/leetcode-0077.md
       - "0078. Subset": Practice/leetcode-0078.md
       - "0079. Word Search": Practice/leetcode-0079.md
+      - "0092. Reverse Linked List II": Practice/leetcode-0092.md
       - "0179. Largest Number": Practice/leetcode-0179.md
       - "0696. Count Binary Substrings": Practice/leetcode-0696.md
       - "0875. Koko Eating Bananas": Practice/leetcode-0875.md
+      - "1432. Max Difference You Can Get From Changing an Integer": Practice/leetcode-1432.md
       - "1486. XOR Operation in an Array": Practice/leetcode-1486.md
       - "3799. Word Squares II": Practice/leetcode-3799.md
       - "0090. Subsets II": Practice/leetcode-0090.md
