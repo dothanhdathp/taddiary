@@ -105,6 +105,8 @@
 |     Mena Massoud, Naomi Scott | [A Whole New World](https://www.youtube.com/watch?v=eitDnP0_83k)               |                  | Buồn, Có câu chuyện   |
 | Kungs vs Cookin’ on 3 Burners | [This Girl](https://www.youtube.com/watch?v=2Y6Nne8RvaA)                       |                  |                       |
 |                          MIIA | [Dynasty](https://www.youtube.com/watch?v=5-ZiKXrnvog)                         |                  |                       |
+|        Michael Learns To Rock | [That's Why You Go Away](https://www.youtube.com/watch?v=4T5g-9E6PUs)          |                  |                       |
+|            Fatin Majidi Cover | [That's Why You Go Away](https://www.youtube.com/watch?v=SWqeWH9XKNQ)          |                  |                       |
 
 ## New
 

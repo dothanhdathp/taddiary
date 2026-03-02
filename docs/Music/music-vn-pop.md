@@ -56,6 +56,9 @@
 |  7   | Hoài Niệm |                The Men | [Em Luôn Ở Trong Tâm Trí Anh](https://www.youtube.com/watch?v=TtrnPt1gBw0)                   |
 |  7   | Hoài Niệm |                The Men | [Nếu Là Anh](https://www.youtube.com/watch?v=003LPzYwSNc)                                    |
 |  7   | Hoài Niệm |        Noo Phước Thịnh | [Thương Em Là Điều Anh Không Thể Ngờ](https://www.youtube.com/watch?v=tAaUbRt6jqM)           |
+|      |           |         Ca Sĩ Giấu Mặt | [THIỆP HỒNG SAI TÊN](https://www.youtube.com/watch?v=O9lP9caT1A8)                            |
+|      |           |         Ca Sĩ Giấu Mặt | [50 NĂM VỀ SAU](https://www.youtube.com/watch?v=xFONPDwW-lU)                                 |
+|      |           |         Nguyễn Hữu Kha | [Nắng Dưới Chân Mây](https://www.youtube.com/watch?v=fvBBwFhfMSY)                            |
 
 ### Nữ
 
@@ -100,17 +103,23 @@
 |      | Rất Hay | Trương Thảo Nhi | [Bốn Chữ Lắm (Trúc Nhân)](https://www.youtube.com/watch?v=i724lraI93s)                       |
 |      | Rất Hay |  Lương Bích Hữu | [Xem Như Em Chẳng May](https://www.youtube.com/watch?v=k-mIzj4M-HE)                          |
 
-### Group
+### Band
 
-|               Nhóm | Tên                                                            |       Ft       | Group | Điểm |
-| -----------------: | :------------------------------------------------------------- | :------------: | :---: | :--: |
-|             Da LAB | [Thanh Xuân](https://www.youtube.com/watch?v=GgQFO8dL5XQ)      |                |       |      |
-|             Da LAB | [Một Nhà](https://www.youtube.com/watch?v=TKlXc3iywoM)         |                |       |      |
-|             Da LAB | [Từ Ngày Em Đến](https://www.youtube.com/watch?v=AmvA-XJF0j8)  |                |       |      |
-|             Da LAB | [Gác lại âu lo](https://www.youtube.com/watch?v=ECxVfrwwTp0)   |     Miu Lê     |       |      |
-|             Da LAB | [Bầu Trời Mới](https://www.youtube.com/watch?v=Z1D26z9l8y8)    | Minh Tốc & Lam |       |      |
-|             Da LAB | [Thức Giấc](https://www.youtube.com/watch?v=R3trO4a49go)       |                |       |      |
-| TamKa PKL (Da LAB) | [Bài Ka Tuổi Trẻ](https://www.youtube.com/watch?v=ghUh0NPHXy8) |                |       |      |
+|               Nhóm | Tên                                                                                     |       Ft       | Group | Điểm |
+| -----------------: | :-------------------------------------------------------------------------------------- | :------------: | :---: | :--: |
+|             Da LAB | [Thanh Xuân](https://www.youtube.com/watch?v=GgQFO8dL5XQ)                               |                |       |      |
+|             Da LAB | [Một Nhà](https://www.youtube.com/watch?v=TKlXc3iywoM)                                  |                |       |      |
+|             Da LAB | [Từ Ngày Em Đến](https://www.youtube.com/watch?v=AmvA-XJF0j8)                           |                |       |      |
+|             Da LAB | [Gác lại âu lo](https://www.youtube.com/watch?v=ECxVfrwwTp0)                            |     Miu Lê     |       |      |
+|             Da LAB | [Bầu Trời Mới](https://www.youtube.com/watch?v=Z1D26z9l8y8)                             | Minh Tốc & Lam |       |      |
+|             Da LAB | [Thức Giấc](https://www.youtube.com/watch?v=R3trO4a49go)                                |                |       |      |
+| TamKa PKL (Da LAB) | [Bài Ka Tuổi Trẻ](https://www.youtube.com/watch?v=ghUh0NPHXy8)                          |                |       |      |
+|          365daband | [NO LOVE NO LIFE (Nơi Anh Không Thuộc về)](https://www.youtube.com/watch?v=pnEBCayEldo) |                |       |      |
+|          365daband | [BỐNG BỐNG BANG BANG](https://www.youtube.com/watch?v=BwN3NiZt-PU)                      |                |       |      |
+|                    |                                                                                         |                |       |      |
+|                    |                                                                                         |                |       |      |
+|                    |                                                                                         |                |       |      |
+|                    |                                                                                         |                |       |      |
 
 
 ## Ít Phổ Biến

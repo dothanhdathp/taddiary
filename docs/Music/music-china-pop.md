@@ -231,6 +231,8 @@
 |     |                              浅影阿 | [探故知](https://www.youtube.com/watch?v=xXa8ig-K1ig)                                                         |                          |                    |
 |     |                              陳小滿 | [也難怪](https://www.youtube.com/watch?v=j057vxX0dN0)                                                         |                          |                    |
 |     |                                雲汐 | [起風了](https://www.youtube.com/watch?v=QS0aACQZI84)                                                         |                          |                    |
+|     |                              張妙格 | [我期待的不是雪 (Anh Không Mong Tuyết)](https://www.youtube.com/watch?v=TyJspgRfwJw)                          |                          |                    |
+|     |                    Annie Lowdermilk | [Fall/落/Lạc](https://www.youtube.com/watch?v=qg6elZRf1d8)                                                    |                          |                    |
 
 ## Cổ Phong
 
