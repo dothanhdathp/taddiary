@@ -149,6 +149,7 @@ nav:
       - "0090. Subsets II": Practice/leetcode-0090.md
       - "0081. Search in Rotated Sorted Array II": Practice/leetcode-0081.md
       - "1356. Sort Integers by The Number of 1 Bits": Practice/leetcode-1356.md
+      - "1545. Find Kth Bit in Nth Binary String": Practice/leetcode-1545.md
   - Khác:
     - TÍCH LŨY TƯ BẢN NGUYÊN THỦY: Another/paper-tich-luy-tu-ban-nguyen-thuy.md
     - Lagom - Vừa Đủ: Another/idea-lagom.md
