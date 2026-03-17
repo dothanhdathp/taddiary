@@ -95,6 +95,12 @@ body {
 .md-typeset h5 { color: var(--md-header-h5); font-weight: bold; }
 .md-typeset h6 { color: var(--md-header-h6); font-weight: bold; }
 
+.md-typeset h2::before { content: "🮿 "; }
+.md-typeset h3::before { content: "⮱ "; }
+.md-typeset h4::before { content: "⮱ "; }
+.md-typeset h5::before { content: "⮱ "; }
+.md-typeset h6::before { content: "⮱ "; }
+
 .md-typeset .note>.admonition-title, .md-typeset .note>summary { background-color: #448aff4d; }
 .md-typeset .abstract>.admonition-title, .md-typeset .abstract>summary { background-color: #00b0ff4d; }
 .md-typeset .info>.admonition-title, .md-typeset .info>summary { background-color: #00b8d44d; }
@@ -159,7 +165,7 @@ label.md-nav__link::before {
 :not(pre):not(.hljs) > code {
   color: var(--code-color);
   background-color: var(--code-background-color);
-  font-family: var(--code-font-bold);
+  font-family: var(--md-code-font-family);
 }
 
 /* For git movie display */
