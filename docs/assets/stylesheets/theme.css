@@ -178,3 +178,33 @@ img.small-icon {
 div.grid.cards {
   background-color: hsl(var(--h), var(--s), var(--l), 0.2);
 }
+
+@media screen and (min-width: 76.25em) {
+  .sticky-note {
+    font-size: small;
+    position: fixed;
+    min-height: 150px;
+    max-height: fit-content;
+    left: 10px;
+    bottom: 200px;
+    z-index: 1000; /* Đảm bảo luôn nằm trên cùng */
+    box-shadow: 0 8px 24px rgba(0,0,0,0.2);
+    background-color: var(--md-code-bg-color);
+    border-radius: 8px;
+    user-select: none; /* Tránh bôi đen văn bản khi đang kéo */
+  }
+
+  /* Tạo một vùng "tay cầm" ở phía trên cùng của ghi chú */
+  .sticky-note-header {
+    padding: 8px;
+    cursor: move;
+    background-color: var(--md-primary-fg-color);
+    color: white;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    text-align: center;
+    font-size: 0.7em;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+}
