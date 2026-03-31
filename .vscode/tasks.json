@@ -7,7 +7,7 @@
             "label": "Mkdocs Build",
             "type": "shell",
             "linux": {
-                "command": "source ./env.sh; if [ \"${fileExtname}\" == \".md\" ]; then quick_rebuild; elif [ \"${fileExtname}\" == \".yml\" ]; then rebuild; else echo 'Build docs false'; fi",
+                "command": "source ./env.sh; build \"${file}\"",
             },
             "group": {
                 "kind": "build",
