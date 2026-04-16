@@ -159,7 +159,9 @@ nav:
   - Báo:
     - Chính Trị: NewSpaper/newspaper-politics.md
     - Công Nghệ: NewSpaper/newspaper-technology.md
-    - Kinh Tế: NewSpaper/newspaper-economy.md
+    - Kinh Tế:
+      - Kinh Tế: NewSpaper/newspaper-economy.md
+      - Nói Về Thương Nhân: NewSpaper/newspaper-economic-blame.md
       
 extra_css:
   - assets/stylesheets/theme.css
