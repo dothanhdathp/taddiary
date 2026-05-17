@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {{ super() }}
+  
+  <div id="slideModal" class="modal-overlay">
+      <div class="modal-content">
+          <span class="close-modal" onclick="closeSlide()">&times;</span>
+          <iframe id="slideFrame" src=""></iframe>
+      </div>
+  </div>
+{% endblock %}

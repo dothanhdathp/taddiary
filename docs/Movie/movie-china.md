@@ -1,5 +1,7 @@
 # \[Movie\] China
 
+{{ book("China Firms Book" , "china-films-book") }}
+
 ## Phim
 
 {{ book_card(

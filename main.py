@@ -4,7 +4,7 @@ def define_env(env):
         return f'''
 <div class="grid cards" markdown><div class="grid-item" style="text-align: center; width: 20%;" markdown>
     
-[![{title}]({img_path}){{.small-icon}}](mdlink)
+[![{title}]({img_path}){{.small-icon}}]({mdlink})
     
 </div><div class="grid-item" style="text-align: left; width: 70%;" markdown>
     
@@ -15,3 +15,7 @@ def define_env(env):
 </div>
 </div>
 '''
+
+    @env.macro
+    def book(title, book, page=""):
+        return f'''[{title}](http://localhost:65000/book/{book}/{page})'''
